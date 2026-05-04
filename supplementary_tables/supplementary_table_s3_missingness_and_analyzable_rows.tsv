@@ -1,0 +1,4 @@
+dataset_id	starting_rows_for_survival_review	time_nonmissing_rows	event_nonmissing_rows	adjustment_covariates	adjustment_covariate_complete_rows	analyzed_events	notes
+GSE62254	300	300	300	stage	300	152	All 300 linked derivation rows entered both unadjusted and stage-adjusted OS analyses.
+GSE15459	193	192	192	stage	192	95	One terminal workbook row was excluded during GSM-based row validation; all remaining rows had non-missing OS time, event, and stage.
+GSE84437	433	433	433	pt_stage,pn_stage	433	209	All survival-ready rows had non-missing pT and pN stage for the adjusted OS model.

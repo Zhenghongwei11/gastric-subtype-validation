@@ -1,0 +1,5 @@
+dataset_id	registered_rows_or_cases	survival_ready_rows	excluded_before_primary_model	main_reason_for_exclusion	role_in_manuscript
+GSE62254	300	300	0	None	Derivation cohort
+GSE15459	200	192	8	Matrix samples without linkable clinical outcome rows	External OS validation cohort
+GSE84437	483	433	50	Expression samples without survival-ready linked metadata	External OS validation cohort
+TCGA-STAD	443	443 clinical cases in registry context	Not part of the primary three-cohort OS model	Used for clinicopathologic context rather than primary subtype-effect validation	Supporting clinicopathologic context

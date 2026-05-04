@@ -1,0 +1,7 @@
+run_id=review-smoke
+mode=smoke
+stage=data: scaffold-only
+stage=preprocess: placeholder outputs generated
+stage=analysis: placeholder effect tables generated
+stage=figures: placeholder anchor tables and publication placeholders generated
+stage=audit: manifest, environment, git-state, log copy, and checksums written

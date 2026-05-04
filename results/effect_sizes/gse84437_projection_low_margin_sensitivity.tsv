@@ -1,0 +1,13 @@
+dataset_id	analysis_set	outcome	model	reference_subtype	comparison_subtype	effect_type	effect	ci_lower	ci_upper	pvalue	n	events	covariates	excluded_margin_group	excluded_n	excluded_events
+GSE84437	all_projected_samples	overall_survival	cox_unadjusted	MSI	EMT	hazard_ratio	2.03554	1.37597	3.01129	0.000374648	433	209	none	none	0	0
+GSE84437	all_projected_samples	overall_survival	cox_unadjusted	MSI	MSS/TP53-	hazard_ratio	1.71848	1.1417	2.58664	0.00945566	433	209	none	none	0	0
+GSE84437	all_projected_samples	overall_survival	cox_unadjusted	MSI	MSS/TP53+	hazard_ratio	1.90145	1.18377	3.05422	0.00786797	433	209	none	none	0	0
+GSE84437	all_projected_samples	overall_survival	cox_pt_pn_adjusted	MSI	EMT	hazard_ratio	1.7182	1.15837	2.54859	0.00712831	433	209	pt_stage,pn_stage	none	0	0
+GSE84437	all_projected_samples	overall_survival	cox_pt_pn_adjusted	MSI	MSS/TP53-	hazard_ratio	1.72308	1.14145	2.60107	0.00960804	433	209	pt_stage,pn_stage	none	0	0
+GSE84437	all_projected_samples	overall_survival	cox_pt_pn_adjusted	MSI	MSS/TP53+	hazard_ratio	1.64197	1.01987	2.64354	0.0412567	433	209	pt_stage,pn_stage	none	0	0
+GSE84437	excluding_low_margin_assignments	overall_survival	cox_unadjusted	MSI	EMT	hazard_ratio	2.57677	1.59109	4.17308	0.000119104	288	141	none	low	145	68
+GSE84437	excluding_low_margin_assignments	overall_survival	cox_unadjusted	MSI	MSS/TP53-	hazard_ratio	2.22118	1.31241	3.75922	0.0029523	288	141	none	low	145	68
+GSE84437	excluding_low_margin_assignments	overall_survival	cox_unadjusted	MSI	MSS/TP53+	hazard_ratio	1.73071	0.855984	3.49933	0.126746	288	141	none	low	145	68
+GSE84437	excluding_low_margin_assignments	overall_survival	cox_pt_pn_adjusted	MSI	EMT	hazard_ratio	1.85874	1.13699	3.03866	0.01344	288	141	pt_stage,pn_stage	low	145	68
+GSE84437	excluding_low_margin_assignments	overall_survival	cox_pt_pn_adjusted	MSI	MSS/TP53-	hazard_ratio	2.23971	1.3034	3.84863	0.00350842	288	141	pt_stage,pn_stage	low	145	68
+GSE84437	excluding_low_margin_assignments	overall_survival	cox_pt_pn_adjusted	MSI	MSS/TP53+	hazard_ratio	1.25311	0.615194	2.55251	0.534213	288	141	pt_stage,pn_stage	low	145	68

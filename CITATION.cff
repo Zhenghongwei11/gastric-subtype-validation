@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Gastric subtype validation"
+message: "If you use this code or result package, please cite the archived Zenodo release."
+type: software
+authors:
+  - family-names: Zheng
+    given-names: Hongwei
+    affiliation: Quanzhou Medical College
+    email: lgmooon@qzmc.edu.cn
+  - family-names: Zhuang
+    given-names: Xin
+    affiliation: Quanzhou First Hospital, Fujian Medical University
+  - family-names: Chen
+    given-names: Wenbiao
+    affiliation: Quanzhou Medical College
+    email: 2008001@qzmc.edu.cn
+repository-code: "https://github.com/Zhenghongwei11/gastric-subtype-validation"
+license: "NOASSERTION"

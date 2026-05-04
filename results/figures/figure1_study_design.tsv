@@ -1,0 +1,4 @@
+step	dataset_id	role	note
+derivation	GSE62254	core_discovery	Primary derivation dataset
+replication	GSE15459	external_replication	External prognosis replication
+orthogonal_validation	TCGA-STAD	clinicopathologic_context	Orthogonal validation and clinicopathologic context

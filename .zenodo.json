@@ -1,0 +1,12 @@
+{
+  "title": "Gastric subtype validation",
+  "upload_type": "software",
+  "description": "Reproducibility package for a public-data gastric adenocarcinoma transcriptomic subtype validation study.",
+  "creators": [
+    {"name": "Zheng, Hongwei", "affiliation": "Quanzhou Medical College"},
+    {"name": "Zhuang, Xin", "affiliation": "Quanzhou First Hospital, Fujian Medical University"},
+    {"name": "Chen, Wenbiao", "affiliation": "Quanzhou Medical College"}
+  ],
+  "keywords": ["gastric adenocarcinoma", "transcriptomic subtype", "survival analysis", "ACRG", "public data"],
+  "access_right": "open"
+}

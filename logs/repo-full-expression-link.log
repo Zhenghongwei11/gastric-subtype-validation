@@ -1,0 +1,12 @@
+run_id=repo-full-expression-link
+mode=full
+stage=data: scaffold-only
+stage=preprocess: placeholder outputs generated
+stage=analysis: placeholder effect tables generated
+stage=accession_metadata: cached accession summaries parsed when available
+stage=clinical_outcomes: GSE15459 outcome workbook parsed when available
+stage=expression_link: GSE15459 series matrix linked to analyzable clinical rows when matrix cache exists
+stage=survival_effects: GSE15459 subtype Cox effects generated when clinical rows exist
+stage=figures: placeholder anchor tables and publication placeholders generated
+stage=manuscript_refresh: placeholder refresh record written
+stage=audit: manifest, environment, git-state, log copy, and checksums written

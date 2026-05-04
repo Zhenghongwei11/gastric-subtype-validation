@@ -1,0 +1,5 @@
+dataset_id	predicted_subtype	sample_count	median_assignment_margin	median_assignment_entropy	low_margin_count	shared_gene_count
+GSE84437	EMT	141	0.280462	0.989138	24	15335
+GSE84437	MSI	108	0.128159	0.99291	36	15335
+GSE84437	MSS/TP53+	63	0.0613813	0.996037	36	15335
+GSE84437	MSS/TP53-	121	0.092879	0.995209	49	15335

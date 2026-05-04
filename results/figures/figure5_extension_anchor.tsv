@@ -1,0 +1,5 @@
+claim_id	dataset_id	outcome	model	reference_subtype	comparison_subtype	effect_type	effect	ci_lower	ci_upper	pvalue	fdr	n	events	covariates	adjuvant_stratum
+C2	GSE26899	overall_survival	cox_subgroup_adjuvant_interaction	EP	MP	interaction_hazard_ratio	2.23076	0.728875	6.82736	0.159773		93	33	subgroup,adjuvant,subgroup_x_adjuvant	interaction
+C2	GSE26899	recurrence_free_survival	cox_subgroup_adjuvant_interaction	EP	MP	interaction_hazard_ratio	2.92751	0.912927	9.38773	0.0708037		93	32	subgroup,adjuvant,subgroup_x_adjuvant	interaction
+C2	GSE26901	overall_survival	cox_subgroup_adjuvant_interaction	EP	MP	interaction_hazard_ratio	1.10356	0.439872	2.76863	0.83369		109	55	subgroup,adjuvant,subgroup_x_adjuvant	interaction
+C2	GSE26901	recurrence_free_survival	cox_subgroup_adjuvant_interaction	EP	MP	interaction_hazard_ratio	1.25382	0.509277	3.08688	0.622666		109	60	subgroup,adjuvant,subgroup_x_adjuvant	interaction

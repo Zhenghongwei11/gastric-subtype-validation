@@ -1,0 +1,1 @@
+git unavailable: project root is not a git repository

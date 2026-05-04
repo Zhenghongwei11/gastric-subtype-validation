@@ -1,0 +1,13 @@
+dataset_id	subtype	n	events	median_assignment_margin	low_margin_count	notes
+GSE62254	MSI	68	23			
+GSE62254	EMT	46	33			
+GSE62254	MSS/TP53-	107	58			
+GSE62254	MSS/TP53+	79	38			
+GSE15459	MSI	11	2			Small reference stratum: 11 patients and 2 OS events.
+GSE15459	EMT	83	56			
+GSE15459	MSS/TP53-	61	24			
+GSE15459	MSS/TP53+	37	13			
+GSE84437	EMT	141	79	0.280462	24	Cross-platform assigned subtype counts with projection-confidence summary.
+GSE84437	MSI	108	37	0.128159	36	Cross-platform assigned subtype counts with projection-confidence summary.
+GSE84437	MSS/TP53+	63	32	0.0613813	36	Cross-platform assigned subtype counts with projection-confidence summary.
+GSE84437	MSS/TP53-	121	61	0.092879	49	Cross-platform assigned subtype counts with projection-confidence summary.

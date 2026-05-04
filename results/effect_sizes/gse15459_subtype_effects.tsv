@@ -1,0 +1,7 @@
+dataset_id	outcome	model	reference_subtype	comparison_subtype	effect_type	effect	ci_lower	ci_upper	pvalue	n	events	covariates
+GSE15459	overall_survival	cox_unadjusted	Metabolic	Invasive	hazard_ratio	1.78414	0.981439	3.24337	0.0576272	192	95	none
+GSE15459	overall_survival	cox_unadjusted	Metabolic	Proliferative	hazard_ratio	1.55233	0.851146	2.83116	0.151488	192	95	none
+GSE15459	overall_survival	cox_unadjusted	Metabolic	Unstable	hazard_ratio	1.51692	0.739612	3.11116	0.25556	192	95	none
+GSE15459	overall_survival	cox_stage_adjusted	Metabolic	Invasive	hazard_ratio	1.81826	0.992716	3.33032	0.0528326	192	95	stage
+GSE15459	overall_survival	cox_stage_adjusted	Metabolic	Proliferative	hazard_ratio	1.68461	0.918724	3.08895	0.0918085	192	95	stage
+GSE15459	overall_survival	cox_stage_adjusted	Metabolic	Unstable	hazard_ratio	1.40028	0.680818	2.88004	0.360171	192	95	stage

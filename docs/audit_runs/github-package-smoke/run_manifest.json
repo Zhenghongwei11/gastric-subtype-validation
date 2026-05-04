@@ -1,0 +1,8 @@
+{
+  "cwd": "/Users/lgmoon/Desktop/github_stage/gastric-subtype-validation_20260504_115253",
+  "generated_at": "2026-05-04T04:00:03.072588+00:00",
+  "mode": "smoke",
+  "platform": "macOS-12.7.6-x86_64-i386-64bit-Mach-O",
+  "python": "3.13.7",
+  "run_id": "github-package-smoke"
+}

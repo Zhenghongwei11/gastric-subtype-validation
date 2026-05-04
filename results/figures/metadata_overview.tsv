@@ -1,0 +1,11 @@
+dataset_id	field	value	completeness
+GSE62254	endpoint_availability	Overall survival and recurrence patterns reported	planned
+GSE15459	endpoint_availability	Outcome supplement available with prognosis relevance	planned
+GSE84437	endpoint_availability	Widely reused for survival modeling; cohort-level qualification still needed	planned
+TCGA-STAD	endpoint_availability	Overall survival and clinicopathologic annotation widely available	planned
+GSE26253	endpoint_availability	Recurrence-focused high-risk postoperative cohort with recurrence-free survival time and status in series metadata	planned
+GSE13861	endpoint_availability	Recurrence and prognosis context reported	planned
+GSE26899	endpoint_availability	Recovered patient-level OS and RFS from Nat Commun Supplementary Data 2	planned
+GSE26901	endpoint_availability	Recovered patient-level OS and RFS from Nat Commun Supplementary Data 2	planned
+GSE26942	endpoint_availability	Subtype and clinical context present; survival usability needs qualification	planned
+GSE29272	endpoint_availability	Primarily tumor-normal and site comparison; prognosis utility uncertain	planned

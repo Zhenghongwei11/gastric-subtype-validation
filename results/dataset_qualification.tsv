@@ -1,0 +1,11 @@
+dataset_id	analysis_role	qualification_status	treatment_qualified	endpoint_basis	planned_role
+GSE62254	derivation	qualified	no	Overall survival and recurrence patterns reported	Primary derivation dataset
+GSE15459	replication	qualified	no	Outcome supplement available with prognosis relevance	External prognosis replication
+GSE84437	replication	qualified	no	Widely reused for survival modeling; cohort-level qualification still needed	External prognosis replication or optional extension
+TCGA-STAD	orthogonal	qualified	no	Overall survival and clinicopathologic annotation widely available	Orthogonal validation and clinicopathologic context
+GSE26253	sensitivity	qualified	no	Recurrence-focused high-risk postoperative cohort with recurrence-free survival time and status in series metadata	Sensitivity and recurrence-oriented external compact-score validation
+GSE13861	sensitivity	qualified	no	Recurrence and prognosis context reported	Sensitivity or fallback-endpoint cohort
+GSE26899	control_or_exclusion	review_only	yes	Recovered patient-level OS and RFS from Nat Commun Supplementary Data 2	Treatment-aware external extension candidate
+GSE26901	control_or_exclusion	review_only	yes	Recovered patient-level OS and RFS from Nat Commun Supplementary Data 2	Treatment-aware external extension candidate
+GSE26942	control_or_exclusion	review_only	no	Subtype and clinical context present; survival usability needs qualification	Landscape breadth or control cohort
+GSE29272	control_or_exclusion	review_only	no	Primarily tumor-normal and site comparison; prognosis utility uncertain	Control or exclusion-documented cohort
