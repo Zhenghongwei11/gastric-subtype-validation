@@ -1,0 +1,7 @@
+dataset_id	claim_id	outcome	model	reference_subtype	comparison_subtype	effect_type	effect	ci_lower	ci_upper	pvalue	fdr	n	events	covariates
+GSE26899	C1	overall_survival	cox_unadjusted	MSI	EMT	hazard_ratio	1.69887	0.676771	4.26459	0.259084	0.421652	93	33	none
+GSE26899	C1	overall_survival	cox_unadjusted	MSI	MSS/TP53-	hazard_ratio	0.733227	0.246262	2.18313	0.577243	0.685319	93	33	none
+GSE26899	C1	overall_survival	cox_unadjusted	MSI	MSS/TP53+	hazard_ratio	1.03741	0.363654	2.95948	0.945248	0.945248	93	33	none
+GSE26899	C1	overall_survival	cox_stage_adjusted	MSI	EMT	hazard_ratio	1.29784	0.512789	3.28478	0.58214	0.685319	92	33	stage
+GSE26899	C1	overall_survival	cox_stage_adjusted	MSI	MSS/TP53-	hazard_ratio	0.654513	0.219122	1.95502	0.447737	0.671605	92	33	stage
+GSE26899	C1	overall_survival	cox_stage_adjusted	MSI	MSS/TP53+	hazard_ratio	0.750444	0.261184	2.1562	0.593943	0.685319	92	33	stage

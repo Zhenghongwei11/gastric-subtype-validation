@@ -29,3 +29,7 @@ python3 -m pip install -r requirements.txt
 ## Reproduce figures and tables
 
 Run the analysis scripts under `scripts/analysis/` and figure scripts under `scripts/figures/`. See the script headers for inputs/outputs.
+
+## Citation
+
+Zenodo: `10.5281/zenodo.20018751` (v1.0.1).

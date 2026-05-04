@@ -229,13 +229,13 @@ def render_figure3(
     draw_forest_block(figure, grid[0, :], build_figure3_display_rows(figure3_rows, figure3_summary_rows))
     draw_subtype_km_panel(
         figure.add_subplot(grid[1, 0]),
-        [row for row in figure3_km_rows if row["dataset_id"] == "GSE15459"],
-        "B  GSE15459 external validation KM",
+        [row for row in figure3_km_rows if row["dataset_id"] == "GSE26942"],
+        "B  GSE26942 external validation KM",
     )
     draw_subtype_km_panel(
         figure.add_subplot(grid[1, 1]),
         [row for row in figure3_km_rows if row["dataset_id"] == "GSE84437"],
-        "C  GSE84437 projected-state KM",
+        "C  GSE84437 external validation KM",
     )
 
     figure.text(0.5, 0.98, "External prognosis replication across independent cohorts", ha="center", va="top", fontsize=17, fontweight="bold", color="#111111")

@@ -1,2 +1,2 @@
 dataset_id	outcome	comparison_subtype	reference_subtype	effect	ci_lower	ci_upper	model	covariates	n	events	source_dataset_count
-summary_diamond	overall_survival	EMT	MSI	2.15155	1.47525	3.13789	fixed_effect_summary	none	625	304	2
+summary_diamond	overall_survival	EMT	MSI	2.14825	1.55242	2.97276	fixed_effect_summary	none	827	392	4

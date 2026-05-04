@@ -1,7 +1,7 @@
 claim_id	dataset_id	outcome	model	reference_subtype	comparison_subtype	effect_type	effect	ci_lower	ci_upper	pvalue	n	events	covariates	adjuvant_stratum	fdr
-C1	GSE62254	overall_survival	cox_unadjusted	MSI	EMT	hazard_ratio	3.0131	1.76667	5.13893	5.13843e-05	300	152	none		0.000924917
-C1	GSE15459	overall_survival	cox_unadjusted	MSI	EMT	hazard_ratio	4.42291	1.07768	18.1521	0.0390365	192	95	none		0.0742621
-C1	GSE84437	overall_survival	cox_unadjusted	MSI	EMT	hazard_ratio	2.03554	1.37597	3.01129	0.000374648	433	209	none		0.00337183
+C1	GSE62254	overall_survival	cox_unadjusted	MSI	EMT	hazard_ratio	3.0131	1.76667	5.13893	5.13843e-05	300	152	none		0.00154153
+C1	GSE15459	overall_survival	cox_unadjusted	MSI	EMT	hazard_ratio	4.42291	1.07768	18.1521	0.0390365	192	95	none		0.112518
+C1	GSE84437	overall_survival	cox_unadjusted	MSI	EMT	hazard_ratio	2.03554	1.37597	3.01129	0.000374648	433	209	none		0.00561972
 C2	GSE26899	overall_survival	cox_subgroup_adjuvant_interaction	EP	MP	interaction_hazard_ratio	2.23076	0.728875	6.82736	0.159773	93	33	subgroup,adjuvant,subgroup_x_adjuvant	interaction	0.239659
 C2	GSE26899	recurrence_free_survival	cox_subgroup_adjuvant_interaction	EP	MP	interaction_hazard_ratio	2.92751	0.912927	9.38773	0.0708037	93	32	subgroup,adjuvant,subgroup_x_adjuvant	interaction	0.121378
 C2	GSE26901	overall_survival	cox_subgroup_adjuvant_interaction	EP	MP	interaction_hazard_ratio	1.10356	0.439872	2.76863	0.83369	109	55	subgroup,adjuvant,subgroup_x_adjuvant	interaction	0.90948
