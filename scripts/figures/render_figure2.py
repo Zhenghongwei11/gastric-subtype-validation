@@ -163,7 +163,7 @@ def render_figure2(km_rows: list[dict[str, str]], marker_rows: list[dict[str, st
 
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Render submission Figure 2 derivation KM and marker portrait")
+    parser = argparse.ArgumentParser(description="Render Figure 2 derivation KM and marker portrait")
     parser.add_argument("--km-input", required=True)
     parser.add_argument("--marker-input", required=True)
     parser.add_argument("--pdf-output", required=True)

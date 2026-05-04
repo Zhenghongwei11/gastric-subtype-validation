@@ -291,7 +291,7 @@ def render_figure1(
 
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Render submission Figure 1 workflow and consistency panel")
+    parser = argparse.ArgumentParser(description="Render Figure 1 workflow and consistency panel")
     parser.add_argument("--flow-input", required=True)
     parser.add_argument("--cohort-map-input", required=True)
     parser.add_argument("--projection-input", required=True)
