@@ -1,0 +1,21 @@
+dataset_id	gene_symbol	marker_group	pathway_label	marker_order	subtype	sample_count	mean_expression	median_expression	subtype_mean_zscore	emt_minus_msi_mean_delta
+GSE62254	VIM	EMT_high	EMT pathway	1	EMT	46	2.68454	2.62144	1.73159	0.315188
+GSE62254	VIM	EMT_high	EMT pathway	1	MSI	68	2.36935	2.35107	-0.550535	0.315188
+GSE62254	VIM	EMT_high	EMT pathway	1	MSS/TP53-	107	2.36068	2.35425	-0.613354	0.315188
+GSE62254	VIM	EMT_high	EMT pathway	1	MSS/TP53+	79	2.36698	2.38969	-0.567705	0.315188
+GSE62254	CDH1	epithelial_high	Epithelial markers	3	EMT	46	2.27031	2.32727	-1.71975	-0.267005
+GSE62254	CDH1	epithelial_high	Epithelial markers	3	MSI	68	2.53731	2.56399	0.560774	-0.267005
+GSE62254	CDH1	epithelial_high	Epithelial markers	3	MSS/TP53-	107	2.51985	2.53925	0.411588	-0.267005
+GSE62254	CDH1	epithelial_high	Epithelial markers	3	MSS/TP53+	79	2.55916	2.55405	0.747388	-0.267005
+GSE62254	EPCAM	epithelial_high	Epithelial markers	4	EMT	46	3.61751	3.67916	-1.7295	-0.274152
+GSE62254	EPCAM	epithelial_high	Epithelial markers	4	MSI	68	3.89166	3.90074	0.557474	-0.274152
+GSE62254	EPCAM	epithelial_high	Epithelial markers	4	MSS/TP53-	107	3.90406	3.91978	0.660921	-0.274152
+GSE62254	EPCAM	epithelial_high	Epithelial markers	4	MSS/TP53+	79	3.8861	3.9102	0.511107	-0.274152
+GSE62254	CLDN18	epithelial_high	Epithelial markers	5	EMT	46	2.62687	2.80101	-1.07941	-0.148199
+GSE62254	CLDN18	epithelial_high	Epithelial markers	5	MSI	68	2.77507	2.99726	-0.243238	-0.148199
+GSE62254	CLDN18	epithelial_high	Epithelial markers	5	MSS/TP53-	107	2.76259	2.92573	-0.313621	-0.148199
+GSE62254	CLDN18	epithelial_high	Epithelial markers	5	MSS/TP53+	79	3.10818	3.31379	1.63626	-0.148199
+GSE62254	MKI67	proliferation_context	Proliferation context	6	EMT	46	1.90415	1.91283	-1.61462	-0.406551
+GSE62254	MKI67	proliferation_context	Proliferation context	6	MSI	68	2.31071	2.32061	1.12321	-0.406551
+GSE62254	MKI67	proliferation_context	Proliferation context	6	MSS/TP53-	107	2.19125	2.20434	0.318764	-0.406551
+GSE62254	MKI67	proliferation_context	Proliferation context	6	MSS/TP53+	79	2.16955	2.18869	0.172643	-0.406551

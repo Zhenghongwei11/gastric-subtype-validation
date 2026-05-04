@@ -1,0 +1,17 @@
+dataset_id	outcome	model	subtype	n	events
+GSE62254	overall_survival	cox_unadjusted	MSI	68	23
+GSE62254	overall_survival	cox_unadjusted	EMT	46	33
+GSE62254	overall_survival	cox_unadjusted	MSS/TP53-	107	58
+GSE62254	overall_survival	cox_unadjusted	MSS/TP53+	79	38
+GSE62254	overall_survival	cox_stage_adjusted	MSI	68	23
+GSE62254	overall_survival	cox_stage_adjusted	EMT	46	33
+GSE62254	overall_survival	cox_stage_adjusted	MSS/TP53-	107	58
+GSE62254	overall_survival	cox_stage_adjusted	MSS/TP53+	79	38
+GSE15459	overall_survival	cox_unadjusted	MSI	11	2
+GSE15459	overall_survival	cox_unadjusted	EMT	83	56
+GSE15459	overall_survival	cox_unadjusted	MSS/TP53-	61	24
+GSE15459	overall_survival	cox_unadjusted	MSS/TP53+	37	13
+GSE15459	overall_survival	cox_stage_adjusted	MSI	11	2
+GSE15459	overall_survival	cox_stage_adjusted	EMT	83	56
+GSE15459	overall_survival	cox_stage_adjusted	MSS/TP53-	61	24
+GSE15459	overall_survival	cox_stage_adjusted	MSS/TP53+	37	13

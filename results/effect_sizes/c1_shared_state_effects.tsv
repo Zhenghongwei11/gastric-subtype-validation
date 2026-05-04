@@ -1,0 +1,19 @@
+claim_id	dataset_id	outcome	model	reference_subtype	comparison_subtype	effect_type	effect	ci_lower	ci_upper	pvalue	n	events	covariates	adjuvant_stratum	fdr
+C1	GSE62254	overall_survival	cox_unadjusted	MSI	EMT	hazard_ratio	3.0131	1.76667	5.13893	5.13843e-05	300	152	none		0.000924917
+C1	GSE62254	overall_survival	cox_unadjusted	MSI	MSS/TP53-	hazard_ratio	1.92726	1.18848	3.12528	0.0078132	300	152	none		0.0247064
+C1	GSE62254	overall_survival	cox_unadjusted	MSI	MSS/TP53+	hazard_ratio	1.51226	0.900871	2.53856	0.11759	300	152	none		0.176385
+C1	GSE62254	overall_survival	cox_stage_adjusted	MSI	EMT	hazard_ratio	1.94085	1.12754	3.34082	0.016703	300	152	stage		0.0375817
+C1	GSE62254	overall_survival	cox_stage_adjusted	MSI	MSS/TP53-	hazard_ratio	1.4191	0.869997	2.31478	0.160884	300	152	stage		0.194916
+C1	GSE62254	overall_survival	cox_stage_adjusted	MSI	MSS/TP53+	hazard_ratio	1.16136	0.689728	1.95549	0.57364	300	152	stage		0.57364
+C1	GSE15459	overall_survival	cox_unadjusted	MSI	EMT	hazard_ratio	4.42291	1.07768	18.1521	0.0390365	192	95	none		0.0742621
+C1	GSE15459	overall_survival	cox_unadjusted	MSI	MSS/TP53-	hazard_ratio	2.68863	0.634913	11.3854	0.179246	192	95	none		0.201652
+C1	GSE15459	overall_survival	cox_unadjusted	MSI	MSS/TP53+	hazard_ratio	2.89445	0.651586	12.8576	0.16243	192	95	none		0.194916
+C1	GSE15459	overall_survival	cox_stage_adjusted	MSI	EMT	hazard_ratio	3.2439	0.781903	13.458	0.105006	192	95	stage		0.171828
+C1	GSE15459	overall_survival	cox_stage_adjusted	MSI	MSS/TP53-	hazard_ratio	2.27118	0.533512	9.66851	0.267046	192	95	stage		0.282755
+C1	GSE15459	overall_survival	cox_stage_adjusted	MSI	MSS/TP53+	hazard_ratio	3.03625	0.678788	13.5812	0.146208	192	95	stage		0.194916
+C1	GSE84437	overall_survival	cox_unadjusted	MSI	EMT	hazard_ratio	2.03554	1.37597	3.01129	0.000374648	433	209	none		0.00337183
+C1	GSE84437	overall_survival	cox_unadjusted	MSI	MSS/TP53-	hazard_ratio	1.71848	1.1417	2.58664	0.00945566	433	209	none		0.0247064
+C1	GSE84437	overall_survival	cox_unadjusted	MSI	MSS/TP53+	hazard_ratio	1.90145	1.18377	3.05422	0.00786797	433	209	none		0.0247064
+C1	GSE84437	overall_survival	cox_pt_pn_adjusted	MSI	EMT	hazard_ratio	1.7182	1.15837	2.54859	0.00712831	433	209	pt_stage,pn_stage		0.0247064
+C1	GSE84437	overall_survival	cox_pt_pn_adjusted	MSI	MSS/TP53-	hazard_ratio	1.72308	1.14145	2.60107	0.00960804	433	209	pt_stage,pn_stage		0.0247064
+C1	GSE84437	overall_survival	cox_pt_pn_adjusted	MSI	MSS/TP53+	hazard_ratio	1.64197	1.01987	2.64354	0.0412567	433	209	pt_stage,pn_stage		0.0742621

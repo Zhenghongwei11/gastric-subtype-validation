@@ -1,0 +1,3 @@
+claim_id	dataset_id	outcome	model	reference_subtype	comparison_subtype	effect_type	effect	ci_lower	ci_upper	pvalue	n	events	covariates	adjuvant_stratum	fdr
+C1	GSE15459	overall_survival	cox_unadjusted	MSI	EMT	hazard_ratio	4.42291	1.07768	18.1521	0.0390365	192	95	none		0.0742621
+C1	GSE84437	overall_survival	cox_unadjusted	MSI	EMT	hazard_ratio	2.03554	1.37597	3.01129	0.000374648	433	209	none		0.00337183

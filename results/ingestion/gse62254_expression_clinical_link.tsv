@@ -1,0 +1,301 @@
+dataset_id	gsm_id	patient_id	matrix_sample_title	clinical_sample_name	sex	age	pathology	stage_tnm	t_stage	n_stage	m_stage	pathologic_stage	lauren_code	lauren	documented_recurrence	follow_up_status	date_of_death_or_last_follow_up	disease_free_survival_months	overall_survival_months	molecular_subtype_code	molecular_subtype_label	matrix_column_index	link_method
+GSE62254	GSM1523727	107	T107	107T	M	67	Tubular adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	2	0	41192	3.966666667	88.73333333	2	MSI	1	patient_id_exact
+GSE62254	GSM1523728	108	T108	108T	F	68	Tubular adenoca, PD, intestinal	pT2N1	2	1	0	II	1	intestinal	2	0	41192	4.033333333	88.23333333	2	MSI	2	patient_id_exact
+GSE62254	GSM1523729	109	T109	109T	F	42	Tubular adenoca, PD, diffuse	pT2N1	2	1	0	II	2	diffuse	0	0	41192	74.96666667	88.23333333	1	MSS/TP53+	3	patient_id_exact
+GSE62254	GSM1523744	160	T160	160T	M	69	Adenoca, PD, diffuse	pT2N1	2	1	0	II	2	diffuse	0	0	41192	89.76666667	105.7	2	MSI	4	patient_id_exact
+GSE62254	GSM1523745	164	T164	164T	M	68	Adenoca, PD, diffuse	pT3N2	3	2	0	III	2	diffuse	0	0	41192	84.6	105.5333333	0	MSS/TP53-	5	patient_id_exact
+GSE62254	GSM1523746	165	T165	165T	M	56	Adenoca, MD to PD, mixed	pT2N1	2	1	0	II	3	mixed	1	3	38800	5.766666667	25.5	0	MSS/TP53-	6	patient_id_exact
+GSE62254	GSM1523747	168	T168	168T	M	60	Adenoca, PD, mixed	pT2N2	2	2	0	III	2	mixed	1	3	38301	6.366666667	8.7	1	MSS/TP53+	7	patient_id_exact
+GSE62254	GSM1523748	169	T169	169T	F	68	PD adenoca and signet-ring cell ca, diffuse	pT3N1	3	1	0	III	2	diffuse	0	0	41192	81.36666667	104.9333333	1	MSS/TP53+	8	patient_id_exact
+GSE62254	GSM1523765	235	T235	235T	F	52	Adenoca, MD, diffuse	pT3N2	3	2	0	III	2	diffuse	1	3	38608	9.6	14.2	0	MSS/TP53-	9	patient_id_exact
+GSE62254	GSM1523768	244	T244	244T	M	52	Tubular adenoca, MD, intestinal	pT2N2	2	2	0	III	1	intestinal	1	3	38930	9.4	24.23333333	0	MSS/TP53-	10	patient_id_exact
+GSE62254	GSM1523769	253	T253	253T	F	71	Signet ring cell ca, diffuse	pT3N3	3	3	0	IV	2	diffuse	1	3	38631	9.8	13.73333333	0	MSS/TP53-	11	patient_id_exact
+GSE62254	GSM1523770	255	T255	255T	M	63	Adenoca, PD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	4	38888	12.23333333	22.06666667	2	MSI	12	patient_id_exact
+GSE62254	GSM1523771	256	T256	256T	F	62	Tubular adenoca, PD, diffuse	pT4N2M1	4	2	1	IV	2	diffuse	1	3	38609	8.933333333	12.66666667	3	EMT	13	patient_id_exact
+GSE62254	GSM1523772	263	T263	263T	F	58	Adenoca, PD, diffuse	pT3N1M1	3	1	1	IV	2	diffuse	1	3	38540	5.8	10.03333333	3	EMT	14	patient_id_exact
+GSE62254	GSM1523773	268	T268	268T	F	75	Signet ring cell ca, diffuse	pT3N3	3	3	0	IV	2	diffuse	1	3	38381	2.8	4.333333333	3	EMT	15	patient_id_exact
+GSE62254	GSM1523774	269	T269	269T	M	56	Adenoca, MD, intestinal	pT2N2	2	2	0	III	1	intestinal	0	0	41192	67.06666667	97.7	3	EMT	16	patient_id_exact
+GSE62254	GSM1523775	270	T270	270T	F	77	Adenoca, PD, diffuse	pT2N1	2	1	0	II	2	diffuse	0	0	41192	95.23333333	97.6	2	MSI	17	patient_id_exact
+GSE62254	GSM1523776	275	T275	275T	M	48	Adenoca, PD, diffuse	pT2N1	2	1	0	II	2	diffuse	0	0	41192	97.2	97.46666667	2	MSI	18	patient_id_exact
+GSE62254	GSM1523777	321	T321	321T	M	60	Adenoca, MD, intestinal	pT2N3	2	3	0	IV	1	intestinal	0	0	41192	62.2	92.93333333	0	MSS/TP53-	19	patient_id_exact
+GSE62254	GSM1523778	322	T322	322T	F	56	Signet ring cell ca, diffuse	pT3N2	3	2	0	III	2	diffuse	0	0	41192	11.7	92.63333333	0	MSS/TP53-	20	patient_id_exact
+GSE62254	GSM1523779	323	T323	323T	F	77	Adenoca, PD, diffuse	pT3N2	3	2	0	III	2	diffuse	0	0	41192	74.2	92.6	2	MSI	21	patient_id_exact
+GSE62254	GSM1523780	324	T324	324T	F	84	adenoca, MD	T4N1	4	1	0	IV	1	intestinal	1	3	38912	2.633333333	16.4	2	MSI	22	patient_id_exact
+GSE62254	GSM1523781	325	T325	325T	F	37	Tubular adenoca, MD, intestinal	pT2N3	2	3	0	IV	1	intestinal	0	2	38509	2.233333333	2.933333333	0	MSS/TP53-	23	patient_id_exact
+GSE62254	GSM1523782	326	T326	326T	M	63	Mucinous adenoca, MD, intestinal	pT2N3	2	3	0	IV	1	intestinal	1	3	38561	0.4	4.4	1	MSS/TP53+	24	patient_id_exact
+GSE62254	GSM1523783	327	T327	327T	F	55	Mucinous adenoca	pT2N2	2	2	0	III	2	diffuse	0	0	41192	89.1	91.93333333	1	MSS/TP53+	25	patient_id_exact
+GSE62254	GSM1523784	328	T328	328T	F	44	Adenoca, PD, diffuse	pT2N2	2	2	0	III	2	diffuse	0	0	41192	84.3	91.3	0	MSS/TP53-	26	patient_id_exact
+GSE62254	GSM1523785	329	T329	329T	F	60	Tubular adenoca, PD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	4	38831	8.9	11.76666667	2	MSI	27	patient_id_exact
+GSE62254	GSM1523786	330	T330	330T	F	44	Tubular adenoca, PD, diffuse	pT2N3M1	2	3	1	IV	2	diffuse	0	2	39346	23.53333333	28.46666667	1	MSS/TP53+	28	patient_id_exact
+GSE62254	GSM1523787	331	T331	331T	F	57	Tubular adenoca, MD, intestinal	pT2N3	2	3	0	IV	1	intestinal	0	0	41192	84.43333333	89.63333333	1	MSS/TP53+	29	patient_id_exact
+GSE62254	GSM1523788	333	T333	333T	F	42	Signet ring cell ca	pT2N3M1	2	3	1	IV	2	diffuse	1	3	38976	7.666666667	8.266666667	3	EMT	30	patient_id_exact
+GSE62254	GSM1523789	336	T336	336T	M	69	Signet ring cell ca, diffuse	pT2N3M1	2	3	1	IV	2	diffuse	1	3	39102	8.433333333	11.8	0	MSS/TP53-	31	patient_id_exact
+GSE62254	GSM1523790	337	T337	337T	M	62	Tubular adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	1	1	41186	57.26666667	80.93333333	2	MSI	32	patient_id_exact
+GSE62254	GSM1523791	338	T338	338T	M	60	Tubular adenoca, MD, intestinal	pT2N0	2	0	0	I	1	intestinal	0	0	41192	58.7	81.13333333	2	MSI	33	patient_id_exact
+GSE62254	GSM1523792	339	T339	339T	M	55	Tubular adenoca, WD, intestinal	pT2N0	2	0	0	I	1	intestinal	0	0	41192	59.83333333	80.8	0	MSS/TP53-	34	patient_id_exact
+GSE62254	GSM1523793	341	T341	341T	F	82	Tubular adenoca, PD with neuroendocrine differentiation, diffuse	pT2N1	2	1	0	II	2	diffuse	0	0	41192	12.56666667	80.73333333	1	MSS/TP53+	35	patient_id_exact
+GSE62254	GSM1523794	343	T343	343T	M	67	Tubular adenoca, PD, diffuse	pT2N3	2	3	0	IV	2	diffuse	1	3	39586	0.6333333333	27	2	MSI	36	patient_id_exact
+GSE62254	GSM1523795	346	T346	346T	M	70	Tubular adenoca, MD, intestinal	pT2N0	2	0	0	I	1	intestinal	0	0	41192	49.06666667	80.06666667	1	MSS/TP53+	37	patient_id_exact
+GSE62254	GSM1523796	355	T355	355T	M	53	Tubular adenoca, MD, intestinal	pT3N1	3	1	0	III	1	intestinal	1	3	40540	49.86666667	57.63333333	3	EMT	38	patient_id_exact
+GSE62254	GSM1523797	361	T361	361T	M	63	Tubular adenoca, MD, intestinal	pT3N2	3	2	0	III	1	intestinal	1	3	39683	24.5	28.26666667	2	MSI	39	patient_id_exact
+GSE62254	GSM1523798	363	T363	363T	M	84	Tubular adenoca, PD, diffuse	pT2N1	2	1	0	II	2	diffuse	0	4	40702	28.06666667	61.83333333	3	EMT	40	patient_id_exact
+GSE62254	GSM1523799	369	T369	369T	M	81	undifferentiated ca, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41192	3.1	77.5	1	MSS/TP53+	41	patient_id_exact
+GSE62254	GSM1523800	372	T372	372T	M	73	Tubular adenoca, MD, intestinal	pT2N2	2	2	0	III	1	intestinal	0	0	41192	48.66666667	76.93333333	2	MSI	42	patient_id_exact
+GSE62254	GSM1523801	374	T374	374T	M	74	Tubular adenoca, MD, indeterminate	pT2N1	2	1	0	II	1	indeterminate	0	0	41192	60.63333333	76.93333333	2	MSI	43	patient_id_exact
+GSE62254	GSM1523802	375	T375	375T	F	70	Tubular adenoca, PD, intestinal	pT2N1	2	1	0	II	1	intestinal	2	0	41192	1.2	76.76666667	0	MSS/TP53-	44	patient_id_exact
+GSE62254	GSM1523803	376	T376	376T	F	72	undifferentiated ca, indeterminate	pT3N3	3	3	0	IV	2	indeterminate	0	2	39103	0.6333333333	7.066666667	1	MSS/TP53+	45	patient_id_exact
+GSE62254	GSM1523804	377	T377	377T	F	37	mucinous adenoca(signet-ring cell type), diffuse	pT3N1	3	1	0	III	2	diffuse	0	0	41192	60.06666667	76.7	1	MSS/TP53+	46	patient_id_exact
+GSE62254	GSM1523805	385	T385	385T	F	72	Tubular adenoca, PD, mixed	pT3N2	3	2	0	III	3	mixed	0	2	39046	2.966666667	4.466666667	2	MSI	47	patient_id_exact
+GSE62254	GSM1523806	388	T388	388T	M	68	Tubular adenoca, MD, intestinal	pT3N2	3	2	0	III	1	intestinal	1	3	39303	0.5333333333	12.7	0	MSS/TP53-	48	patient_id_exact
+GSE62254	GSM1523807	394	T394	394T	F	70	Tubular adenoca, WD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41192	71.66666667	73.73333333	0	MSS/TP53-	49	patient_id_exact
+GSE62254	GSM1523808	395	T395	395T	M	56	Tubular adenoca, PD, diffuse	pT3N1	3	1	0	III	2	diffuse	0	0	41192	72.5	73.5	2	MSI	50	patient_id_exact
+GSE62254	GSM1523809	396	T396	396T	M	77	Tubular adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41192	11.53333333	73.43333333	1	MSS/TP53+	51	patient_id_exact
+GSE62254	GSM1523810	397	T397	397T	M	66	Tubular adenoca, PD, intestinal	pT2N0	2	0	0	I	1	intestinal	2	0	41192	0.7333333333	73.06666667	2	MSI	52	patient_id_exact
+GSE62254	GSM1523811	399	T399	399T	F	80	Tubular adenoca, PD, intestinal	pT2N0	2	0	0	I	1	intestinal	0	0	41192	4.8	72.86666667	2	MSI	53	patient_id_exact
+GSE62254	GSM1523812	401	T401	401T	M	62	Tubular adenoca, PD, diffuse	pT3N1	3	1	0	III	2	diffuse	0	0	41192	59	72.83333333	1	MSS/TP53+	54	patient_id_exact
+GSE62254	GSM1523813	402	T402	402T	M	70	Signet ring cell ca, diffuse	pT3N1	3	1	0	III	2	diffuse	0	0	41192	59.36666667	72.83333333	2	MSI	55	patient_id_exact
+GSE62254	GSM1523814	405	T405	405T	M	68	hepatoid adenoca, indeterminate	pT2N1	2	1	0	II	1	intestinal	0	0	41192	59.46666667	72.73333333	1	MSS/TP53+	56	patient_id_exact
+GSE62254	GSM1523815	413	T413	413T	M	64	composite adenoca and neuroendocrine ca, mixed	pT2N2	2	2	0	III	3	mixed	1	3	39783	18.76666667	25.16666667	0	MSS/TP53-	57	patient_id_exact
+GSE62254	GSM1523816	414	T414	414T	M	66	Tubular adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41192	36.53333333	72.06666667	0	MSS/TP53-	58	patient_id_exact
+GSE62254	GSM1523817	415	T415	415T	M	73	PD adenoca with neuroendocrine differentiation, indeterminate	pT3N3	3	3	0	IV	2	diffuse	1	3	39222	5.833333333	6.233333333	0	MSS/TP53-	59	patient_id_exact
+GSE62254	GSM1523818	416	T416	416T	F	66	Tubular adenoca, PD, diffuse	pT3N3	3	3	0	IV	2	diffuse	1	3	39330	7.866666667	9.833333333	1	MSS/TP53+	60	patient_id_exact
+GSE62254	GSM1523819	419	T419	419T	F	77	Tubular adenoca, MD, intestinal	pT4N1	4	1	0	IV	1	intestinal	0	2	39346	8.1	10.1	1	MSS/TP53+	61	patient_id_exact
+GSE62254	GSM1523820	420	T420	420T	M	64	Tubular adenoca, MD, intestinal	pT3N1	3	1	0	III	1	intestinal	2	4	39768	0.7666666667	23.7	1	MSS/TP53+	62	patient_id_exact
+GSE62254	GSM1523821	421	T421	421T	M	64	Tubular adenoca, MD, intestinal	pT4N1	4	1	0	IV	1	intestinal	0	0	41192	63.83333333	71.1	2	MSI	63	patient_id_exact
+GSE62254	GSM1523822	422	T422	422T	M	66	Tubular adenoca, MD, intestinal	pT2N0	2	0	0	I	1	intestinal	0	0	41192	59.7	70.96666667	2	MSI	64	patient_id_exact
+GSE62254	GSM1523823	423	T423	423T	F	64	Tubular adenoca, MD, intestinal	pT2N2	2	2	0	III	1	intestinal	0	0	41192	59.2	70.9	2	MSI	65	patient_id_exact
+GSE62254	GSM1523824	424	T424	424T	M	64	Tubular adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41192	70.26666667	70.66666667	0	MSS/TP53-	66	patient_id_exact
+GSE62254	GSM1523825	425	T425	425T	M	69	Tubular adenoca, PD, intestinal	pT3N2	3	2	0	III	1	intestinal	1	3	39204	2.833333333	4	2	MSI	67	patient_id_exact
+GSE62254	GSM1523826	426	T426	426T	M	74	Tubular adenoca, PD, intestinal	pT3N1	3	1	0	III	1	intestinal	0	2	39172	1.833333333	2.7	0	MSS/TP53-	68	patient_id_exact
+GSE62254	GSM1523827	427	T427	427T	F	36	mucinous adenoca (signet-ring cell type), diffuse	pT3N1	3	1	0	III	2	diffuse	0	0	41192	69.53333333	70.03333333	0	MSS/TP53-	69	patient_id_exact
+GSE62254	GSM1523828	428	T428	428T	M	72	papillary adenoca, MD, intestinal	pT3N3	3	3	0	IV	1	intestinal	1	3	39268	1.366666667	5.866666667	2	MSI	70	patient_id_exact
+GSE62254	GSM1523829	430	T430	430T	M	68	Tubular adenoca, WD, intestinal	T2N0	2	0	0	II	1	intestinal	0	0	41192	47.43333333	69.83333333	0	MSS/TP53-	71	patient_id_exact
+GSE62254	GSM1523830	431	T431	431T	M	59	①Tubular adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	1	3	40701	32.43333333	53.43333333	2	MSI	72	patient_id_exact
+GSE62254	GSM1523831	432	T432	432T	M	68	Tubular adenoca, PD, indeterminate	pT2N1M1	2	1	1	IV	2	diffuse	1	3	40028	0.1	30.9	1	MSS/TP53+	73	patient_id_exact
+GSE62254	GSM1523832	433	T433	433T	M	62	Tubular adenoca, PD, intestinal	pT2N2	2	2	0	III	1	intestinal	1	3	39631	6.7	17.66666667	1	MSS/TP53+	74	patient_id_exact
+GSE62254	GSM1523833	437	T437	437T	M	65	Signet ring cell ca, diffuse	pT3N3	3	3	0	IV	2	diffuse	1	3	39377	8.033333333	8.866666667	2	MSI	75	patient_id_exact
+GSE62254	GSM1523834	438	T438	438T	F	66	Signet ring cell ca, diffuse	pT3N1	3	1	0	III	2	diffuse	1	3	40449	18.2	44.56666667	1	MSS/TP53+	76	patient_id_exact
+GSE62254	GSM1523835	440	T440	440 T	M	54	Tubular adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41192	59.03333333	69.3	3	EMT	77	patient_id_exact
+GSE62254	GSM1523836	441	T441	441T	M	56	Tubular adenoca, MD, intestinal	pT3N1	3	1	0	III	1	intestinal	0	0	41192	59.96666667	69.23333333	1	MSS/TP53+	78	patient_id_exact
+GSE62254	GSM1523837	442	T442	442T	M	70	Tubular adenoca, MD, intestinal	pT2N0	2	0	0	I	1	intestinal	2	4	39920	3	26.83333333	0	MSS/TP53-	79	patient_id_exact
+GSE62254	GSM1523838	443	T443	443T	M	65	Tubular adenoca, MD, intestinal	pT3N2	3	2	0	III	1	intestinal	0	2	39428	9.7	10.33333333	2	MSI	80	patient_id_exact
+GSE62254	GSM1523839	444	T444	444T	M	57	mucinous adenoca(signet-ring cell type), diffuse	pT3N2	3	2	0	III	2	diffuse	0	0	41192	68.2	69.13333333	0	MSS/TP53-	81	patient_id_exact
+GSE62254	GSM1523840	445	T445	445T	M	78	PD carcinoma with neuroendocrine and squamous differentiation, indeterminate	pT2N1	2	1	0	II	2	diffuse	1	3	39804	5.666666667	22.83333333	1	MSS/TP53+	82	patient_id_exact
+GSE62254	GSM1523841	446	T446	446T	M	65	Tubular adenoca, PD, mixed	pT2N1	2	1	0	II	3	mixed	1	3	40381	17.26666667	42.06666667	1	MSS/TP53+	83	patient_id_exact
+GSE62254	GSM1523842	447	T447	447T	M	70	Tubular adenoca, PD, diffuse	pT2N1	2	1	0	II	2	diffuse	0	2	40582	46.2	48.73333333	0	MSS/TP53-	84	patient_id_exact
+GSE62254	GSM1523843	448	T448	448T	F	65	Tubular adenoca, PD, diffuse	pT4N2M1	4	2	1	IV	2	diffuse	1	3	39898	10.83333333	25.86666667	0	MSS/TP53-	85	patient_id_exact
+GSE62254	GSM1523844	450	T450	450T	M	54	Tubular adenoca, PD, intestinal	pT3N2	3	2	0	III	1	intestinal	1	0	41192	34.66666667	68.9	3	EMT	86	patient_id_exact
+GSE62254	GSM1523845	451	T451	451T	F	77	undifferentiated ca, diffuse	pT3N3	3	3	0	IV	2	diffuse	0	2	39424	6.1	9.666666667	1	MSS/TP53+	87	patient_id_exact
+GSE62254	GSM1523846	455	T455	455T	M	63	Tubular adenoca, PD, diffuse	pT2N2	2	2	0	III	2	diffuse	0	0	41192	43.8	68.36666667	3	EMT	88	patient_id_exact
+GSE62254	GSM1523847	456	T456	456T	F	31	undifferentiated ca, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41192	58.8	68.13333333	2	MSI	89	patient_id_exact
+GSE62254	GSM1523848	457	T457	457T	M	68	undifferentiated ca, diffuse	pT3N1	3	1	0	III	2	diffuse	0	0	41192	49.03333333	68.13333333	3	EMT	90	patient_id_exact
+GSE62254	GSM1523849	459	T459	459T	M	65	Tubular adenoca, MD, intestinal	pT3N1	3	1	0	III	1	intestinal	1	3	39994	0.5333333333	28.03333333	3	EMT	91	patient_id_exact
+GSE62254	GSM1523850	460	T460	460T	M	38	Signet ring cell ca, diffuse	pT4N2	4	2	0	IV	2	diffuse	1	3	40245	10.03333333	36.4	3	EMT	92	patient_id_exact
+GSE62254	GSM1523851	465	T465	465T	F	77	Tubular adenoca, MD, intestinal	pT2N0	2	0	0	I	1	intestinal	0	0	41192	9.166666667	67.23333333	2	MSI	93	patient_id_exact
+GSE62254	GSM1523852	469	T469	469T	M	55	Tubular adenoca, MD, intestinal	pT3N1	3	1	0	III	1	intestinal	0	2	40118	27.8	31	0	MSS/TP53-	94	patient_id_exact
+GSE62254	GSM1523853	470	T470	470T	M	68	Tubular adenoca, MD, intestinal	pT2N0	2	0	0	I	1	intestinal	2	0	41192	1.833333333	66.73333333	0	MSS/TP53-	95	patient_id_exact
+GSE62254	GSM1523854	471	T471	471T	M	69	mucinous adenoca(signet-ring cell type), diffuse	pT2N1	2	1	0	II	2	diffuse	0	0	41192	58.86666667	66.73333333	0	MSS/TP53-	96	patient_id_exact
+GSE62254	GSM1523855	476	T476	476T	M	77	Tubular adenoca, MD, intestinal	pT2N2	2	2	0	III	1	intestinal	1	3	39862	12.13333333	21.93333333	0	MSS/TP53-	97	patient_id_exact
+GSE62254	GSM1523856	477	T477	477T	F	51	adenosquamous	pT2N1	2	1	0	II	2	diffuse	0	0	41192	65.46666667	66.2	2	MSI	98	patient_id_exact
+GSE62254	GSM1523857	480	T480	480T	F	75	Tubular adenoca, MD, intestinal	pT3N2	3	2	0	III	1	intestinal	1	3	39649	5.9	14.43333333	0	MSS/TP53-	99	patient_id_exact
+GSE62254	GSM1523858	482	T482	482T	F	42	Signet ring cell ca, diffuse	pT2N0	2	0	0	I	2	diffuse	1	3	39741	5.933333333	17.1	3	EMT	100	patient_id_exact
+GSE62254	GSM1523859	483	T483	483T	M	67	Tubular adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41192	50.03333333	53.13333333	1	MSS/TP53+	101	patient_id_exact
+GSE62254	GSM1523860	485	T485	485T	M	66	Tubular adenoca, PD, mixed	pT2N0	2	0	0	I	3	mixed	2	4	40504	0.7333333333	42.2	2	MSI	102	patient_id_exact
+GSE62254	GSM1523861	488	T488	488T	M	64	Tubular adenoca, MD, intestinal	pT2N0	2	0	0	I	1	intestinal	0	0	41192	59.36666667	64.8	1	MSS/TP53+	103	patient_id_exact
+GSE62254	GSM1523862	489	T489	489T	M	41	Signet ring cell ca, diffuse	pT3N3	3	3	0	IV	2	diffuse	1	3	39878	11.33333333	21	3	EMT	104	patient_id_exact
+GSE62254	GSM1523863	493	T493	493T	F	64	Tubular adenoca, PD, mixed	pT2N0	2	0	0	I	3	mixed	0	0	41192	59.83333333	64.56666667	2	MSI	105	patient_id_exact
+GSE62254	GSM1523864	501	T501	501T	M	52	Tubular adenoca, MD, intestinal	pT2N0	2	0	0	I	1	intestinal	0	0	41192	60.2	63.96666667	2	MSI	106	patient_id_exact
+GSE62254	GSM1523865	502	T502	502T	M	70	Tubular adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	1	0	41192	24.8	63.7	0	MSS/TP53-	107	patient_id_exact
+GSE62254	GSM1523866	503	T503	503T	F	86	Tubular adenoca, PD, intestinal	pT3N2M1	3	2	1	IV	1	intestinal	0	2	39412	3.9	4.366666667	3	EMT	108	patient_id_exact
+GSE62254	GSM1523867	505	T505	505T	M	54	Tubular adenoca, MD, intestinal	pT2N2	2	2	0	III	1	intestinal	1	3	40284	9.7	33.26666667	2	MSI	109	patient_id_exact
+GSE62254	GSM1523868	510	T510	510T	M	62	Tubular adenoca, PD, mixed	pT3N2	3	2	0	III	3	mixed	1	1	41192	3.3	63.26666667	2	MSI	110	patient_id_exact
+GSE62254	GSM1523869	514	T514	514T	F	67	Tubular adenoca, PD, diffuse	pT2N1	2	1	0	II	2	diffuse	0	0	41192	14.1	62.53333333	1	MSS/TP53+	111	patient_id_exact
+GSE62254	GSM1523870	516	T516	516T	M	75	Tubular adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41192	59.16666667	62.46666667	2	MSI	112	patient_id_exact
+GSE62254	GSM1523871	517	T517	517T	F	70	Tubular adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41192	21.76666667	62.36666667	2	MSI	113	patient_id_exact
+GSE62254	GSM1523872	518	T518	518T	F	61	Tubular adenoca, PD, diffuse	pT4N3M1	4	3	1	IV	2	diffuse	1	3	39773	13.6	15.03333333	0	MSS/TP53-	114	patient_id_exact
+GSE62254	GSM1523873	519	T519	519T	M	57	undifferentiated ca, indeterminate	pT2N2M1	2	2	1	IV	2	diffuse	1	3	40044	0.6	24.03333333	1	MSS/TP53+	115	patient_id_exact
+GSE62254	GSM1523874	520	T520	520T	F	72	Tubular adenoca, MD, intestinal	pT2N0	2	0	0	I	1	intestinal	0	0	41192	59.83333333	62.1	0	MSS/TP53-	116	patient_id_exact
+GSE62254	GSM1523875	522	T522	522T	M	79	Tubular adenoca, MD, intestinal	PT2N1	2	1	0	II	1	intestinal	1	3	39586	6.233333333	8.466666667	1	MSS/TP53+	117	patient_id_exact
+GSE62254	GSM1523876	523	T523	523T	M	76	Tubular adenoca, MD, intestinal	pT2N0	2	0	0	I	1	intestinal	0	0	41192	58.7	61.9	2	MSI	118	patient_id_exact
+GSE62254	GSM1523877	524	T524	524T	M	65	Tubular adenoca, MD, intestinal/	pT2N2	2	2	0	III	1	intestinal	1	3	39728	4.133333333	13.1	0	MSS/TP53-	119	patient_id_exact
+GSE62254	GSM1523878	525	T525	525T	M	56	Tubular adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41192	59.7	61.86666667	1	MSS/TP53+	120	patient_id_exact
+GSE62254	GSM1523879	528	T528	528T	M	63	Tubular adenoca, MD, intestinal	pT3N3	3	3	0	IV	1	intestinal	0	0	41192	0.6666666667	61.16666667	0	MSS/TP53-	121	patient_id_exact
+GSE62254	GSM1523880	529	T529	529T	F	54	undifferentiated ca, indeterminate	pT2N0	2	0	0	I	2	diffuse	0	0	41192	54.96666667	60.96666667	2	MSI	122	patient_id_exact
+GSE62254	GSM1523881	532	T532	532T	M	74	Papillary adenoca, MD, intestinal	pT2N2	2	2	0	III	1	intestinal	1	3	39818	13.73333333	14.9	1	MSS/TP53+	123	patient_id_exact
+GSE62254	GSM1523882	533	T533	533T	M	36	Tubular adenoca, PD, diffuse	pT2N2	2	2	0	III	2	diffuse	0	0	41192	59.7	60.7	1	MSS/TP53+	124	patient_id_exact
+GSE62254	GSM1523883	534	T534	534T	M	77	Tubular adenoca, PD, diffuse	pT2N1	2	1	0	II	2	①diffuse/ ②diffuse/ ③intestinal	1	3	40558	30.03333333	39.53333333	1	MSS/TP53+	125	patient_id_exact
+GSE62254	GSM1523884	538	T538	538T	M	50	Tubular adenoca, PD, diffuse	pT3N1	3	1	0	III	2	diffuse	0	0	41192	3.066666667	60.43333333	1	MSS/TP53+	126	patient_id_exact
+GSE62254	GSM1523885	540	T540	540T	F	53	Tubular adenoca, PD, diffuse	pT2N0	2	0	0	I	2	diffuse	0	0	41192	59.96666667	60.23333333	2	MSI	127	patient_id_exact
+GSE62254	GSM1523886	541	T541	541T	M	49	Signet ring cell ca, diffuse	pT3N3	3	3	0	IV	2	diffuse	1	3	39554	3.966666667	5.6	3	EMT	128	patient_id_exact
+GSE62254	GSM1523887	542	T542	542T	M	46	Tubular adenoca, PD, diffuse	pT2N0	2	0	0	I	2	diffuse	0	0	41192	59.43333333	60.2	0	MSS/TP53-	129	patient_id_exact
+GSE62254	GSM1523888	544	T544	544T	M	52	Tubular adenoca, PD, intestinal	pT2N0	2	0	0	I	1	intestinal	0	0	41192	59.83333333	59.9	2	MSI	130	patient_id_exact
+GSE62254	GSM1523889	547	T547	547T	M	74	papillary adenoca, intestinal	pT2N0	2	0	0	I	1	intestinal	0	0	41192	55.3	59.66666667	2	MSI	131	patient_id_exact
+GSE62254	GSM1523890	550	T550	550T	F	33	Tubular adenoca, PD, diffuse	pT3N2	3	2	0	III	2	diffuse	1	1	41192	57.2	59.56666667	0	MSS/TP53-	132	patient_id_exact
+GSE62254	GSM1523891	551	T551	551T	F	53	mucinous adenoca(signet-ring cell type), intestinal	pT2N0	2	0	0	I	1	intestinal	0	0	41192	48.63333333	59.56666667	0	MSS/TP53-	133	patient_id_exact
+GSE62254	GSM1523892	553	T553	553T	M	59	Tubular adenoca, MD, intestinal	pT2N0	2	0	0	I	1	intestinal	0	0	41192	47.5	59.46666667	0	MSS/TP53-	134	patient_id_exact
+GSE62254	GSM1523893	554	T554	554T	M	74	Papillary adenoca, intestinal	pT2N0	2	0	0	I	1	intestinal	1	3	40012	3.966666667	20.1	0	MSS/TP53-	135	patient_id_exact
+GSE62254	GSM1523894	556	T556	556T	M	56	Tubular adenoca, MD, intestinal	pT2N0	2	0	0	I	1	intestinal	1	3	40493	18.63333333	35.76666667	1	MSS/TP53+	136	patient_id_exact
+GSE62254	GSM1523895	557	T557	557T	M	66	Tubular adenoca, MD, intestinal	pT2N0	2	0	0	I	1	intestinal	0	0	41192	49.03333333	59.03333333	0	MSS/TP53-	137	patient_id_exact
+GSE62254	GSM1523896	559	T559	559T	M	51	Tubular adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	1	3	40267	18.3	28.03333333	1	MSS/TP53+	138	patient_id_exact
+GSE62254	GSM1523897	560	T560	560T	F	78	Tubular adenoca, MD, intestinal	pT2N0	2	0	0	I	1	intestinal	0	0	41192	57.5	58.86666667	0	MSS/TP53-	139	patient_id_exact
+GSE62254	GSM1523898	561	T561	561T	M	60	Tubular adenoca, MD, intestinal	pT2N0	2	0	0	I	1	intestinal	0	0	41192	49.56666667	58.83333333	1	MSS/TP53+	140	patient_id_exact
+GSE62254	GSM1523899	566	T566	566T	F	60	Papillary adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41192	57.1	58.06666667	1	MSS/TP53+	141	patient_id_exact
+GSE62254	GSM1523901	571	T571	571T	F	65	Tubular adenoca, PD, intestinal	pT2N0	2	0	0	I	1	intestinal	0	0	41192	53.56666667	57.46666667	2	MSI	142	patient_id_exact
+GSE62254	GSM1523903	584	T584	584T	M	60	Tubular adenoca, MD, intestinal	pT4N0	4	0	0	III	1	intestinal	1	3	40722	38.43333333	39.8	2	MSI	143	patient_id_exact
+GSE62254	GSM1523904	586	T586	586T	M	56	papillary adenoca, intestinal	pT2N3	2	3	0	IV	1	intestinal	1	1	41192	42.36666667	55.36666667	0	MSS/TP53-	144	patient_id_exact
+GSE62254	GSM1523905	588	T588	588T	M	66	Signet ring cell ca, diffuse	pT2N1	2	1	0	II	2	diffuse	0	0	41192	44.4	55.3	0	MSS/TP53-	145	patient_id_exact
+GSE62254	GSM1523906	589	T589	589T	M	53	lymphoepithelioma-like carcinoma, diffuse	pT2N0	2	0	0	I	2	diffuse	0	0	41192	46.03333333	55.3	3	EMT	146	patient_id_exact
+GSE62254	GSM1523908	592	T592	592T	F	44	Tubular adenoca, PD, diffuse	pT4N3	4	3	0	IV	2	diffuse	0	0	41192	48.96666667	55.06666667	0	MSS/TP53-	147	patient_id_exact
+GSE62254	GSM1523909	595	T595	595T	M	74	Tubular adenoca, PD, diffuse	pT2N1	2	1	0	II	2	diffuse	0	0	41192	49.33333333	54.53333333	2	MSI	148	patient_id_exact
+GSE62254	GSM1523910	596	T596	596T	M	53	Tubular adenoca, PD, diffuse	pT3N1	3	1	0	III	2	diffuse	0	0	41192	48.5	54.33333333	2	MSI	149	patient_id_exact
+GSE62254	GSM1523911	603	T603	603T	F	72	Tubular adenoca, MD, intestinal	pT3N3	3	3	0	IV	1	intestinal	1	3	40252	6.966666667	21.83333333	2	MSI	150	patient_id_exact
+GSE62254	GSM1523918	207	T207	Tr_207	M	62	Mucinous adenoca, diffuse	pT3N2	3	2	0	III	2	diffuse	1	3	38955	25.9	28.13333333	3	EMT	151	patient_id_exact
+GSE62254	GSM1523919	101	T101	Tr_101	M	64	Tubular adenoca, PD, intestinal	pT4N1	4	1	0	IV	1	intestinal	0	0	41019	78.2	84.1	1	MSS/TP53+	152	patient_id_exact
+GSE62254	GSM1523920	105	T105	Tr_105	M	44	Tubular adenoca, MD, intestinal	pT3N0	3	0	0	II	1	intestinal	1	3	38791	3.233333333	9.333333333	0	MSS/TP53-	153	patient_id_exact
+GSE62254	GSM1523921	106	T106	Tr_106	M	42	Tubular adenoca, PD, diffuse	pT2N1	2	1	0	II	2	diffuse	0	0	41019	61	83.3	2	MSI	154	patient_id_exact
+GSE62254	GSM1523922	112	T112	T112	M	65	Adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	1	3	39260	16.56666667	23.6	0	MSS/TP53-	155	patient_id_exact
+GSE62254	GSM1523923	113	T113	Tr_113	M	59	Tubular adenoca, PD, diffuse	pT2N1	2	1	0	II	2	diffuse	1	3	39345	11.7	26.4	1	MSS/TP53+	156	patient_id_exact
+GSE62254	GSM1523924	114	T114	Tr_114	M	52	Tubular adenoca, PD, diffuse	pT2N1	2	1	0	II	2	diffuse	0	0	41019	73.53333333	82.2	0	MSS/TP53-	157	patient_id_exact
+GSE62254	GSM1523925	115	T115	Tr_115	F	59	Tubular adenoca, PD, diffuse	pT2N1	2	1	0	II	2	diffuse	1	3	38754	4.366666667	6.3	0	MSS/TP53-	158	patient_id_exact
+GSE62254	GSM1523926	116	T116	Tr_116	M	69	①Tubular adenoca, MD, intestinal/ ②Tubular adenoca, WD, intestinal/ ③Tubular adenoca, WD, intestinal	①pT2N1/ ②pT1N1/ ③pT1N1	①2/ ②1/ ③1	1	0	①II/ ②I/ ③I	1	intestinal	0	0	40638	61.13333333	69.03333333	1	MSS/TP53+	159	patient_id_exact
+GSE62254	GSM1523927	117	T117	Tr_117	M	46	Tubular adenoca, PD, diffuse	pT2N1	2	1	0	II	2	diffuse	0	0	41019	80.76666667	80.76666667	1	MSS/TP53+	160	patient_id_exact
+GSE62254	GSM1523928	118	T118	Tr_118	M	69	Papillary adenoca, intestinal	pT2N1	2	1	0	II	1	intestinal	0	4	40233	17.93333333	54.13333333	0	MSS/TP53-	161	patient_id_exact
+GSE62254	GSM1523929	11	T11	Tr_11	F	67	Adenocar, PD, intestinal	pT2N2	2	2	0	III	1	intestinal	0	0	41019	60.23333333	88.33333333	2	MSI	162	patient_id_exact
+GSE62254	GSM1523930	121	T121	Tr_121	M	51	Tubular adenoca, WD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41019	61.16666667	78.53333333	0	MSS/TP53-	163	patient_id_exact
+GSE62254	GSM1523931	124	T124	Tr_124	F	61	Tubular adenoca, PD, diffuse	pT2N1	2	1	0	II	2	diffuse	0	0	41019	71.93333333	77.6	1	MSS/TP53+	164	patient_id_exact
+GSE62254	GSM1523932	128	T128	Tr_128	F	66	Tubular adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	1	3	39131	0.8	12.66666667	0	MSS/TP53-	165	patient_id_exact
+GSE62254	GSM1523933	129	T129	Tr_129	M	74	Tubular adenoca, PD, diffuse	pT2N1	2	1	0	II	2	diffuse	0	0	41019	69.53333333	75.26666667	2	MSI	166	patient_id_exact
+GSE62254	GSM1523934	12	T12	T12	M	70	Adenoca, MD, intestinal	pT3N3	3	3	0	IV	1	intestinal	1	3	38764	11.63333333	12.8	0	MSS/TP53-	167	patient_id_exact
+GSE62254	GSM1523935	132	T132	Tr_132	M	64	Signet ring cell ca, diffuse	pT3N0	3	0	0	II	2	diffuse	0	0	41019	85.26666667	87.4	3	EMT	168	patient_id_exact
+GSE62254	GSM1523936	133	T133	Tr_133	M	70	Signet ring cell ca, diffuse	pT2N1	2	1	0	II	2	diffuse	1	3	38931	10.83333333	17.56666667	1	MSS/TP53+	169	patient_id_exact
+GSE62254	GSM1523937	134	T134	Tr_134	M	81	Tubular adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	1	3	39088	9.766666667	19.66666667	1	MSS/TP53+	170	patient_id_exact
+GSE62254	GSM1523938	135	T135	Tr_135	F	53	Tubular adenoca, PD, diffuse	pT3N3	3	3	0	IV	2	diffuse	1	3	38809	0.7	5.766666667	3	EMT	171	patient_id_exact
+GSE62254	GSM1523939	136	T136	Tr_136	F	28	Tubular adenoca, PD, diffuse	pT3N3	3	3	0	IV	2	diffuse	1	3	39100	7.933333333	11.23333333	3	EMT	172	patient_id_exact
+GSE62254	GSM1523940	137	T137	Tr_137	M	69	Tubular adenoca, MD, intestinal	pT3N3	3	3	0	IV	1	intestinal	1	3	39471	13.86666667	20.03333333	0	MSS/TP53-	173	patient_id_exact
+GSE62254	GSM1523941	138	T138	Tr_138	M	70	Tubular adenoca, PD, diffuse	pT2N3	2	3	0	IV	2	diffuse	1	3	39040	0.6	4.533333333	0	MSS/TP53-	174	patient_id_exact
+GSE62254	GSM1523942	139	T139	Tr_139	M	70	①Tubular adenoca, MD, intestinal/ ②Tubular adenoca, WD, intestinal	①pT2N2/ ②pT1N2	①2/ ②1	2	0	①III/ ②II	1	intestinal	0	0	41019	69.56666667	70.26666667	0	MSS/TP53-	175	patient_id_exact
+GSE62254	GSM1523943	140	T140	Tr_140	F	72	Tubular adenoca, PD, diffuse	pT3N2M1	3	2	1	IV	2	diffuse	1	3	39092	2.933333333	5.533333333	0	MSS/TP53-	176	patient_id_exact
+GSE62254	GSM1523944	141	T141	Tr_141	M	71	undifferentiated ca, diffuse	pT2N2	2	2	0	III	2	diffuse	0	0	41019	11.5	69.63333333	1	MSS/TP53+	177	patient_id_exact
+GSE62254	GSM1523945	142	T142	Tr_142	M	53	Signet ring cell ca, diffuse	pT4N3	4	3	0	IV	2	diffuse	1	3	39466	15.26666667	17.53333333	3	EMT	178	patient_id_exact
+GSE62254	GSM1523946	143	T143	Tr_143	M	50	Tubular adenoca, MD, intestinal	pT2N2	2	2	0	III	1	intestinal	0	0	41019	3.7	68.93333333	1	MSS/TP53+	179	patient_id_exact
+GSE62254	GSM1523947	144	T144	Tr_144	F	74	Tubular adenoca, MD, intestinal	pT3N0	3	0	0	II	1	intestinal	0	0	41019	64.23333333	68.43333333	2	MSI	180	patient_id_exact
+GSE62254	GSM1523948	145	T145	Tr_145	M	52	Tubular adenoca, PD, diffuse	pT3N3	3	3	0	IV	2	diffuse	1	3	39790	15.33333333	27.46666667	3	EMT	181	patient_id_exact
+GSE62254	GSM1523949	146	T146	Tr_146	F	51	Tubular adenoca, PD, diffuse	pT3N2M1	3	2	1	IV	2	diffuse	1	3	39269	3.233333333	10.1	3	EMT	182	patient_id_exact
+GSE62254	GSM1523950	148	T148	Tr_148	M	57	Tubular adenoca, MD, intestinal	pT2N3	2	3	0	IV	1	intestinal	0	0	41019	58.83333333	68.2	0	MSS/TP53-	183	patient_id_exact
+GSE62254	GSM1523951	14	T14	T14	M	66	Adenoca, PD, diffuse	pT4N2M1	4	2	1	IV	2	diffuse	1	3	39978	36.5	53.03333333	1	MSS/TP53+	184	patient_id_exact
+GSE62254	GSM1523952	150	T150	Tr_150	F	54	Adenoca, PD, diffuse	pT2N1	2	1	0	II	2	diffuse	0	0	41019	100.8666667	100.8666667	2	MSI	185	patient_id_exact
+GSE62254	GSM1523953	151	T151	Tr_151	M	70	Adenoca, PD, diffuse	pT2N2	2	2	0	III	2	diffuse	0	0	40536	84.76666667	84.76666667	0	MSS/TP53-	186	patient_id_exact
+GSE62254	GSM1523954	152	T152	Tr_152	M	62	Adenoca, PD, diffuse	pT2N1	2	1	0	II	2	diffuse	0	0	41019	60.23333333	100.8666667	0	MSS/TP53-	187	patient_id_exact
+GSE62254	GSM1523955	154	T154	Tr_154	M	49	Adenoca, MD, mixed	pT2N2	2	2	0	III	1	mixed	1	3	39026	31.4	34.36666667	1	MSS/TP53+	188	patient_id_exact
+GSE62254	GSM1523956	155	T155	Tr_155	M	76	Adenoca, WD, mixed	pT2N1	2	1	0	II	1	mixed	0	2	38934	19.06666667	31.13333333	0	MSS/TP53-	189	patient_id_exact
+GSE62254	GSM1523957	156	T156	Tr_156	F	37	Adenoca, PD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41019	70.03333333	100.6333333	1	MSS/TP53+	190	patient_id_exact
+GSE62254	GSM1523958	157	T157	Tr_157	M	56	Adenoca, PD, diffuse	pT2N1	2	1	0	II	2	diffuse	0	0	41019	97.2	100.2333333	1	MSS/TP53+	191	patient_id_exact
+GSE62254	GSM1523959	16	T16	T16	M	54	Adenoca, MD, intestinal	pT2N3	2	3	0	IV	1	intestinal	1	3	38922	10.2	17.43333333	0	MSS/TP53-	192	patient_id_exact
+GSE62254	GSM1523960	171	T171	Tr_171	F	70	Adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41019	61.4	99	0	MSS/TP53-	193	patient_id_exact
+GSE62254	GSM1523961	172	T172	Tr_172	M	63	Adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	2	38336	6.166666667	9.5	2	MSI	194	patient_id_exact
+GSE62254	GSM1523962	173	T173	Tr_173	M	48	Signet ring cell ca, diffuse	pT3N2	3	2	0	III	2	diffuse	1	3	38659	14.46666667	20.13333333	3	EMT	195	patient_id_exact
+GSE62254	GSM1523963	175	T175	Tr_175	F	69	Adenoca, PD, intestinal	pT2N1	2	1	0	II	1	intestinal	1	3	39431	40.83333333	45.76666667	0	MSS/TP53-	196	patient_id_exact
+GSE62254	GSM1523964	177	T177	Tr_177	M	61	Adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41019	98.53333333	98.53333333	2	MSI	197	patient_id_exact
+GSE62254	GSM1523965	17	T17	T17	M	52	Signet ring cell ca, diffuse	pT3N3	3	3	0	IV	2	diffuse	1	3	38744	8.9	11.46666667	3	EMT	198	patient_id_exact
+GSE62254	GSM1523966	180	T180	Tr_180	M	35	Adenoca, PD, diffuse	pT2N3	2	3	0	IV	2	diffuse	0	3	39617	0.7666666667	51.8	0	MSS/TP53-	199	patient_id_exact
+GSE62254	GSM1523967	182	T182	Tr_182	M	52	Undifferentiated ca	pT2N2	2	2	0	III	2	diffuse	0	0	41019	93.46666667	98.46666667	1	MSS/TP53+	200	patient_id_exact
+GSE62254	GSM1523968	185	T185	Tr_185	F	44	Signet ring cell ca, diffuse	pT3N0M1	3	0	1	IV	2	diffuse	1	3	39423	35.86666667	45.16666667	3	EMT	201	patient_id_exact
+GSE62254	GSM1523969	186	T186	Tr_186	M	69	Adenoca, PD, diffuse	pT3N1	3	1	0	III	2	diffuse	1	3	38606	12.13333333	17.9	0	MSS/TP53-	202	patient_id_exact
+GSE62254	GSM1523970	187	T187	Tr_187	F	77	Adenoca, PD, mixed	pT2N1	2	1	0	II	2	mixed	1	3	38541	7.4	15.7	0	MSS/TP53-	203	patient_id_exact
+GSE62254	GSM1523971	188	T188	Tr_188	F	45	Signet ring cell ca, diffuse	pT3N1	3	1	0	III	2	diffuse	1	3	38469	11.66666667	13.3	3	EMT	204	patient_id_exact
+GSE62254	GSM1523972	189	T189	Tr_189	M	70	Tubular adenoca, (MD) and PD, mixed	pT2N1M1	2	1	1	IV	2	mixed	1	3	38267	6.033333333	6.5	0	MSS/TP53-	205	patient_id_exact
+GSE62254	GSM1523973	18	T18	T18	M	62	Adenoca, PD, diffuse	pT2N2	2	2	0	III	2	diffuse	0	0	41019	23.76666667	87.26666667	0	MSS/TP53-	206	patient_id_exact
+GSE62254	GSM1523974	190	T190	Tr_190	M	61	Tubular adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41019	91.93333333	98.23333333	0	MSS/TP53-	207	patient_id_exact
+GSE62254	GSM1523975	192	T192	Tr_192	M	67	Tubular adenoca, PD, diffuse	pT3N1	3	1	0	III	2	diffuse	1	3	38291	1.9	7.2	3	EMT	208	patient_id_exact
+GSE62254	GSM1523976	193	T193	Tr_193	M	69	Tubular adenoca, PD, mixed	pT2N2	2	2	0	III	2	mixed	1	4	39757	24.53333333	56	0	MSS/TP53-	209	patient_id_exact
+GSE62254	GSM1523977	197	T197	Tr_197	M	63	Hepatoid adenoca, diffuse	pT2N1	2	1	0	II	2	diffuse	0	2	38123	0.7	1	0	MSS/TP53-	210	patient_id_exact
+GSE62254	GSM1523978	19	T19	T19	F	67	Adenoca, PD, diffuse	pT2N3	2	3	0	IV	2	diffuse	1	3	38895	13.03333333	16.23333333	1	MSS/TP53+	211	patient_id_exact
+GSE62254	GSM1523979	1	T1	Tr_1	M	78	Adenoca, MD	pT3N2	3	2	0	III	1	intestinal	1	3	38617	3.366666667	9.433333333	2	MSI	212	patient_id_exact
+GSE62254	GSM1523980	201	T201	Tr_201	F	77	Adenoca, PD, diffuse	pT3N2	3	2	0	III	2	diffuse	0	4	38304	4.333333333	6.7	1	MSS/TP53+	213	patient_id_exact
+GSE62254	GSM1523981	202	T202	Tr_202	M	51	Signet ring cell ca, diffuse	pT2N1	2	1	0	II	2	diffuse	0	0	41019	77.06666667	97.2	3	EMT	214	patient_id_exact
+GSE62254	GSM1523982	204	T204	Tr_204	M	56	Signet ring cell ca, diffuse	pT3N2M1	3	2	1	IV	2	diffuse	2	4	38366	4.633333333	8.7	3	EMT	215	patient_id_exact
+GSE62254	GSM1523983	205	T205	Tr_205	M	61	Adenoca, PD, diffuse	pT2N2	2	2	0	III	2	diffuse	1	3	38409	5.666666667	10.1	2	MSI	216	patient_id_exact
+GSE62254	GSM1523984	206	T206	Tr_206	M	57	Adenoca, PD, diffuse	pT2N1	2	1	0	II	2	diffuse	2	0	41019	21.8	96.96666667	3	EMT	217	patient_id_exact
+GSE62254	GSM1523985	209	T209	Tr_209	M	70	Adenoca, MD, intestinal	pT2N2	2	2	0	III	1	intestinal	0	4	40443	0.7333333333	77.53333333	1	MSS/TP53+	218	patient_id_exact
+GSE62254	GSM1523986	20	T20	T20	M	72	Adenoca, PD, diffuse	pT3N2	3	2	0	III	2	diffuse	1	1	41019	73.73333333	86.8	1	MSS/TP53+	219	patient_id_exact
+GSE62254	GSM1523987	212	T212	Tr_212	F	30	Adenoca, PD, diffuse	pT3N2	3	2	0	III	2	diffuse	1	3	38674	13.1	18.26666667	0	MSS/TP53-	220	patient_id_exact
+GSE62254	GSM1523988	213	T213	Tr_213	M	65	Adenoca, PD, diffuse	pT2N2	2	2	0	III	2	diffuse	2	4	38571	0.7666666667	14.83333333	3	EMT	221	patient_id_exact
+GSE62254	GSM1523989	21	T21	T21	M	46	Adenoca, PD, intestinal	pT3N3	3	3	0	IV	1	intestinal	0	0	41019	64.96666667	86.7	0	MSS/TP53-	222	patient_id_exact
+GSE62254	GSM1523990	225	T225	Tr_225	M	40	Adenoca, PD, diffuse	pT2N2	2	2	0	III	2	diffuse	1	3	38581	5.733333333	14.16666667	3	EMT	223	patient_id_exact
+GSE62254	GSM1523991	226	T226	Tr_226	F	63	Adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	2	0	41019	12.1	95.2	0	MSS/TP53-	224	patient_id_exact
+GSE62254	GSM1523992	227	T227	Tr_227	F	70	Adenoca, PD, diffuse	pT3N3	3	3	0	IV	2	diffuse	1	3	38767	15.63333333	20.13333333	1	MSS/TP53+	225	patient_id_exact
+GSE62254	GSM1523993	228	T228	Tr_228	M	69	Adenoca, MD, intestinal	pT2N2	2	2	0	III	1	intestinal	0	4	40212	35.46666667	68.13333333	0	MSS/TP53-	226	patient_id_exact
+GSE62254	GSM1523994	22	T22	T22	M	63	Adenoca, MD, intestinal	pT2N2	2	2	0	III	1	intestinal	0	0	41019	35.4	86.36666667	0	MSS/TP53-	227	patient_id_exact
+GSE62254	GSM1523995	236	T236	Tr_236	M	82	Adenoca, MD to PD, mixed	pT2N2	2	2	0	III	2	mixed	0	2	38375	6.066666667	6.366666667	0	MSS/TP53-	228	patient_id_exact
+GSE62254	GSM1523996	237	T237	Tr_237	F	75	Signet ring cell ca, diffuse	pT2N1	2	1	0	II	2	diffuse	1	3	39247	30	35.2	1	MSS/TP53+	229	patient_id_exact
+GSE62254	GSM1523997	238	T238	Tr_238	F	72	Adenoca, MD, diffuse	pT4N3	4	3	0	IV	2	diffuse	1	3	38951	18.16666667	25.2	0	MSS/TP53-	230	patient_id_exact
+GSE62254	GSM1523998	23	T23	T23	M	59	Adenoca, MD, intestinal	pT2N2	2	2	0	III	1	intestinal	1	3	39071	9.366666667	21.23333333	0	MSS/TP53-	231	patient_id_exact
+GSE62254	GSM1523999	240	T240	Tr_240	M	66	Adenoca, WD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41019	57.63333333	93.86666667	0	MSS/TP53-	232	patient_id_exact
+GSE62254	GSM1524000	241	T241	Tr_241	F	69	Signet ring cell ca, diffuse	pT3N2	3	2	0	III	2	diffuse	2	0	41019	2.1	93.86666667	2	MSI	233	patient_id_exact
+GSE62254	GSM1524001	246	T246	Tr_246	M	58	Adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41019	88.2	93.63333333	0	MSS/TP53-	234	patient_id_exact
+GSE62254	GSM1524002	24	T24	Tr_24	M	64	Adenoca, MD to PD, mixed	pT3N2	3	2	0	III	3	mixed	0	0	41019	5.066666667	86.13333333	2	MSI	235	patient_id_exact
+GSE62254	GSM1524003	25	T25	T25	F	60	Tubular adenoca, MD, intestinal	pT2N2	2	2	0	III	1	intestinal	0	0	41019	82.4	85.93333333	0	MSS/TP53-	236	patient_id_exact
+GSE62254	GSM1524004	26	T26	T26	M	58	Adenoca, PD, diffuse	pT4N3M1	4	3	1	IV	2	diffuse	1	3	38626	0.7	5.933333333	0	MSS/TP53-	237	patient_id_exact
+GSE62254	GSM1524005	282	T282	Tr_282	M	71	Adenoca, MD, intestinal	pT2N3M1	2	3	1	IV	1	intestinal	1	3	38566	2.1	9.466666667	0	MSS/TP53-	238	patient_id_exact
+GSE62254	GSM1524006	287	T287	Tr_287	F	41	Signet ring cell ca	pT2N2	2	2	0	III	2	diffuse	1	3	39074	12.13333333	26.26666667	3	EMT	239	patient_id_exact
+GSE62254	GSM1524007	288	T288	Tr_288	F	48	Signet ring cell ca, diffuse	pT3N1M1	3	1	1	IV	2	diffuse	1	3	38599	5.566666667	10.36666667	0	MSS/TP53-	240	patient_id_exact
+GSE62254	GSM1524008	28	T28	T28	M	39	Adenoca, PD, diffuse	pT3N3	3	3	0	IV	2	diffuse	1	3	38781	6.7	10.83333333	2	MSI	241	patient_id_exact
+GSE62254	GSM1524009	299	T299	Tr_299	F	60	Adenoca, PD, diffuse	pT2N2	2	2	0	III	2	diffuse	1	3	40259	59.16666667	65	0	MSS/TP53-	242	patient_id_exact
+GSE62254	GSM1524010	29	T29	T29	F	73	Adenoca, PD, diffuse	pT2N2	2	2	0	III	2	diffuse	1	3	39051	18.53333333	19.7	3	EMT	243	patient_id_exact
+GSE62254	GSM1524011	301	T301	Tr_301	F	63	Adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41019	58.63333333	90.2	0	MSS/TP53-	244	patient_id_exact
+GSE62254	GSM1524012	30	T30	T30	M	64	Adenoca, PD, diffuse	pT3N1	3	1	0	III	2	diffuse	0	0	41019	83.03333333	85.23333333	0	MSS/TP53-	245	patient_id_exact
+GSE62254	GSM1524013	311	T311	Tr_311	M	63	Adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41019	70.2	89.9	0	MSS/TP53-	246	patient_id_exact
+GSE62254	GSM1524014	318	T318	Tr_318	F	66	Adenoca, PD, intestinal	pT4N3M1	4	3	1	IV	1	intestinal	1	3	38430	7.666666667	11.33333333	0	MSS/TP53-	247	patient_id_exact
+GSE62254	GSM1524015	319	T319	Tr_319	M	61	Tubular adenoca, MD with focal papillary adenoca(20%), intestinal	pT4N1	4	1	0	IV	1	intestinal	1	4	38790	6.066666667	24.86666667	0	MSS/TP53-	248	patient_id_exact
+GSE62254	GSM1524016	31	T31	T31	M	24	Adenoca, PD, diffuse	pT3N3M1	3	3	1	IV	2	diffuse	1	3	39297	14	27.8	1	MSS/TP53+	249	patient_id_exact
+GSE62254	GSM1524017	32	T32	T32	M	67	Tubular adenoca, MD, intestinal	pT2N2	2	2	0	III	1	intestinal	0	0	41019	10.7	85.03333333	0	MSS/TP53-	250	patient_id_exact
+GSE62254	GSM1524018	33	T33	Tr_33	M	64	Tubular adenoca, MD, mixed	pT3N1	3	1	0	III	1	mixed	0	0	41019	73.2	84.76666667	1	MSS/TP53+	251	patient_id_exact
+GSE62254	GSM1524019	34	T34	T34	M	70	Signet ring cell ca, diffuse	pT3N3	3	3	0	IV	2	diffuse	1	3	38738	6.166666667	8.333333333	0	MSS/TP53-	252	patient_id_exact
+GSE62254	GSM1524020	35	T35	Tr_35	M	51	Tubular adenoca, MD, intestinal	pT2N2	2	2	0	III	1	intestinal	0	0	41019	61.16666667	84.3	1	MSS/TP53+	253	patient_id_exact
+GSE62254	GSM1524021	36	T36	T36	F	56	Tubular adenoca, PD, diffuse	pT3N1	3	1	0	III	2	diffuse	0	2	38883	11.9	12.93333333	1	MSS/TP53+	254	patient_id_exact
+GSE62254	GSM1524022	38	T38	T38	F	65	Signet ring cell ca, diffuse	pT3N3	3	3	0	IV	2	diffuse	1	3	38738	3.466666667	8.033333333	0	MSS/TP53-	255	patient_id_exact
+GSE62254	GSM1524023	39	T39	Tr_39	F	77	Tubular adenoca, MD, intestinal	pT4N2	4	2	0	IV	1	intestinal	0	0	41019	81.43333333	83.83333333	0	MSS/TP53-	256	patient_id_exact
+GSE62254	GSM1524024	3	T3	Tr_3	M	61	Signet ring cell ca, diffuse	pT3N2	3	2	0	III	2	diffuse	1	3	41019	49.46666667	89.43333333	1	MSS/TP53+	257	patient_id_exact
+GSE62254	GSM1524025	41	T41	Tr_41	M	71	Tubular adenoca, PD, diffuse	pT2N2	2	2	0	III	2	diffuse	0	4	40961	14.1	81.83333333	2	MSI	258	patient_id_exact
+GSE62254	GSM1524026	42	T42	T42	F	52	Signet ring cell ca, diffuse	pT3N1	3	1	0	III	2	diffuse	1	1	41019	81.36666667	83.6	3	EMT	259	patient_id_exact
+GSE62254	GSM1524027	45	T45	T45	M	61	Signet ring cell ca, diffuse	pT3N2	3	2	0	III	2	diffuse	0	2	40325	57.76666667	59.7	0	MSS/TP53-	260	patient_id_exact
+GSE62254	GSM1524028	47	T47	T47	M	72	Tubular adenoca, PD, intestinal	pT2N2	2	2	0	III	1	intestinal	1	3	39977	26.56666667	47.7	1	MSS/TP53+	261	patient_id_exact
+GSE62254	GSM1524029	49	T49	T49	F	50	Signet ring cell ca, diffuse	pT4N3	4	3	0	IV	2	diffuse	1	3	39488	21.7	31.1	3	EMT	262	patient_id_exact
+GSE62254	GSM1524030	4	T4	T4	F	46	Signet ring cell ca, diffuse	pT3N1	3	1	0	III	2	diffuse	1	3	39281	27.53333333	31.33333333	3	EMT	263	patient_id_exact
+GSE62254	GSM1524031	50	T50	T50	M	55	Tubular adenoca, MD, intestinal	pT2N3	2	3	0	IV	1	intestinal	1	1	41019	14.13333333	82	1	MSS/TP53+	264	patient_id_exact
+GSE62254	GSM1524032	51	T51	Tr_51	F	70	Tubular adenoca, MD, intestinal	pT4N1	4	1	0	IV	1	intestinal	1	3	40889	12.2	77.2	2	MSI	265	patient_id_exact
+GSE62254	GSM1524033	52	T52	Tr_52	F	67	Tubular adenoca, PD, intestinal	pT2N2M1	2	2	1	IV	1	intestinal	0	0	41019	80.26666667	80.83333333	1	MSS/TP53+	266	patient_id_exact
+GSE62254	GSM1524034	53	T53	Tr_53	M	65	Tubular adenoca, WD, intestinal	pT3N1	3	1	0	III	1	intestinal	1	3	39924	18.16666667	44.06666667	1	MSS/TP53+	267	patient_id_exact
+GSE62254	GSM1524035	54	T54	Tr_54	F	64	Tubular adenoca, PD, mixed	pT3N3	3	3	0	IV	2	mixed	0	0	41019	60.43333333	80.3	3	EMT	268	patient_id_exact
+GSE62254	GSM1524036	55	T55	T55	M	70	Tubular adenoca, MD, intestinal	pT3N1	3	1	0	III	1	intestinal	0	0	41019	71	79.93333333	0	MSS/TP53-	269	patient_id_exact
+GSE62254	GSM1524037	56	T56	T56	M	72	Tubular adenoca, MD, intestinal	pT3N2	3	2	0	III	1	intestinal	1	3	39346	18	23.43333333	0	MSS/TP53-	270	patient_id_exact
+GSE62254	GSM1524038	57	T57	T57	M	74	Signet ring cell ca, diffuse	pT2N3M1	2	3	1	IV	2	diffuse	0	3	38909	8.433333333	8.633333333	1	MSS/TP53+	271	patient_id_exact
+GSE62254	GSM1524039	58	T58	T58	M	72	Signet ring cell ca, diffuse	pT3N2	3	2	0	III	2	diffuse	1	3	39035	11.8	12.06666667	3	EMT	272	patient_id_exact
+GSE62254	GSM1524040	60	T60	T60	F	55	Signet ring cell ca, diffuse	pT3N3	3	3	0	IV	2	diffuse	1	3	39780	18.3	36.16666667	0	MSS/TP53-	273	patient_id_exact
+GSE62254	GSM1524041	61	T61	T61	M	56	Tubular adenoca, MD, intestinal	pT2N3M1	2	3	1	IV	1	intestinal	0	0	41019	68.43333333	77.33333333	2	MSI	274	patient_id_exact
+GSE62254	GSM1524042	62	T62	T62	F	62	Tubular adenoca, PD, diffuse	pT2N2	2	2	0	III	2	diffuse	1	3	39030	0.5333333333	10.83333333	0	MSS/TP53-	275	patient_id_exact
+GSE62254	GSM1524043	63	T63	T63	M	60	Tubular adenoca, PD, diffuse	pT2N2M1	2	2	1	IV	2	diffuse	1	3	39210	4.1	16.83333333	1	MSS/TP53+	276	patient_id_exact
+GSE62254	GSM1524044	64	T64	Tr_64	M	80	Tubular adenoca, MD, intestinal	pT2N1M1	2	1	1	IV	1	intestinal	1	3	39405	3.066666667	22.86666667	0	MSS/TP53-	277	patient_id_exact
+GSE62254	GSM1524045	68	T68	Tr_68	M	33	Tubular adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41019	64.6	89.13333333	1	MSS/TP53+	278	patient_id_exact
+GSE62254	GSM1524046	75	T75	Tr_75	F	59	Adenoca, PD, diffuse	pT2N1	2	1	0	II	2	diffuse	0	0	41019	87.53333333	88.03333333	0	MSS/TP53-	279	patient_id_exact
+GSE62254	GSM1524047	77	T77	Tr_77	M	74	Adenoca, PD, diffuse	pT2N1	2	1	0	II	2	diffuse	0	0	40479	33.96666667	69.86666667	1	MSS/TP53+	280	patient_id_exact
+GSE62254	GSM1524048	78	T78	Tr_78	M	67	Adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	2	3	39787	36.3	46.8	2	MSI	281	patient_id_exact
+GSE62254	GSM1524049	79	T79	Tr_79	M	62	Adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	2	0	41019	0.5	87.8	1	MSS/TP53+	282	patient_id_exact
+GSE62254	GSM1524050	80	T80	Tr_80	M	66	Adenoca, WD, intestinal	pT2N1	2	1	0	II	1	intestinal	1	3	40114	21.73333333	57.13333333	1	MSS/TP53+	283	patient_id_exact
+GSE62254	GSM1524051	81	T81	Tr_81	F	51	Adenoca, PD, diffuse	pT2N1	2	1	0	II	2	diffuse	0	0	41019	85.03333333	87.26666667	0	MSS/TP53-	284	patient_id_exact
+GSE62254	GSM1524052	83	T83	Tr_83	M	74	Adenoca, PD, diffuse	pT2N1	2	1	0	II	2	diffuse	2	3	38802	8.766666667	13.16666667	0	MSS/TP53-	285	patient_id_exact
+GSE62254	GSM1524053	84	T84	Tr_84	M	61	Adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41019	79.83333333	86.93333333	1	MSS/TP53+	286	patient_id_exact
+GSE62254	GSM1524054	85	T85	Tr_85	M	72	Tubular adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41019	12.56666667	86.56666667	2	MSI	287	patient_id_exact
+GSE62254	GSM1524055	86	T86	Tr_86	M	54	Adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	1	3	39564	12.13333333	37.93333333	1	MSS/TP53+	288	patient_id_exact
+GSE62254	GSM1524056	88	T88	Tr_88	M	71	Adenocarcinoma with neuroendocrine differentiation	pT2N1	2	1	0	II	1	intestinal	1	3	38866	7.5	14.16666667	0	MSS/TP53-	289	patient_id_exact
+GSE62254	GSM1524057	90	T90	Tr_90	M	80	Adenoca, PD, intestinal	pT4N0	4	0	0	IV	1	intestinal	1	3	38924	14.96666667	15.93333333	3	EMT	290	patient_id_exact
+GSE62254	GSM1524058	91	T91	Tr_91	F	56	Tubular adenoca, PD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41019	85.46666667	85.46666667	3	EMT	291	patient_id_exact
+GSE62254	GSM1524059	93	T93	Tr_93	M	58	Tubular adenoca, PD, diffuse	pT3N0	3	0	0	II	2	diffuse	0	0	41019	79.23333333	85.2	3	EMT	292	patient_id_exact
+GSE62254	GSM1524060	96	T96	Tr_96	M	56	Papillary adenoca, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41019	70.3	84.83333333	1	MSS/TP53+	293	patient_id_exact
+GSE62254	GSM1524061	97	T97	Tr_97	M	77	Tubular adenoca, WD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41019	84.33333333	84.6	2	MSI	294	patient_id_exact
+GSE62254	GSM1524062	9	T9	T9	F	40	Signet ring cell ca, diffuse	pT3N1	3	1	0	III	2	diffuse	1	3	40468	43.43333333	70.2	3	EMT	295	patient_id_exact
+GSE62254	GSM1524068	82	T82		F	71	Tubular adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41192	91.23333333	92.86666667	2	MSI	296	patient_id_exact
+GSE62254	GSM1524069	87	T87		M	63	Adenoca, MD, intestinal	pT2N1	2	1	0	II	1	intestinal	2	4	40996	0.3	85.6	2	MSI	297	patient_id_exact
+GSE62254	GSM1524070	89	T89		M	58	Adenoca, WD, intestinal	pT2N1	2	1	0	II	1	intestinal	0	0	41192	86.2	91.63333333	1	MSS/TP53+	298	patient_id_exact
+GSE62254	GSM1524071	94	T94		M	60	Tubular adenoca, MD, intestinal	pT4N1	4	1	0	III	1	intestinal	0	0	41192	85.83333333	90.76666667	1	MSS/TP53+	299	patient_id_exact
+GSE62254	GSM1524072	95	T95		F	43	Adenoca, PD, diffuse	pT3N2M1	3	2	1	IV	2	diffuse	2	4	39758	0.7333333333	42.93333333	0	MSS/TP53-	300	patient_id_exact

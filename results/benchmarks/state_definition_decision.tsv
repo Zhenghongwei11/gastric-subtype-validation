@@ -1,0 +1,2 @@
+candidate_method	gene_panel_size	replace_threshold	external_direction_pass	external_cindex_noninferior_pass	external_gain_pass	replace_decision	decision_rationale
+compact_program_score	tbd	replace only after external noninferiority and gain benchmark passes	false	false	false	keep_shared_acrg_state	benchmark inputs unavailable

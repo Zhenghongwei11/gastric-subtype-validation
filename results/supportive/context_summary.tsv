@@ -1,0 +1,5 @@
+claim_id	dataset_id	context_module	status	model	effect	ci_lower	ci_upper	pvalue	n	events	covariates	note
+C3	TCGA-STAD	quantitative_compact_score_validation	completed	cox_score_unadjusted	1.20876	1.05456	1.3855	0.00647192	385	159	compact_score	TCGA-STAD compact-score orthogonal validation with compact_score
+C3	TCGA-STAD	quantitative_compact_score_validation	completed	cox_score_stage_age_sex_adjusted	1.27894	1.09333	1.49606	0.00210268	365	148	compact_score,stage,age,sex	TCGA-STAD compact-score orthogonal validation with compact_score,stage,age,sex
+C3	GSE26253	external_compact_score_recurrence_validation	completed	cox_score_unadjusted	1.2338	1.05329	1.44524	0.00923493	432	177	compact_score	GSE26253 postoperative recurrence validation with compact_score
+C3	GSE26253	external_compact_score_recurrence_validation	completed	cox_score_stage_adjusted	1.22716	1.04386	1.44264	0.0131371	432	177	compact_score,stage	GSE26253 postoperative recurrence validation with compact_score,stage

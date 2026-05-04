@@ -1,0 +1,13 @@
+claim_id	dataset_id	outcome	model	reference_subtype	comparison_subtype	effect_type	effect	ci_lower	ci_upper	pvalue	fdr	n	events	covariates	adjuvant_stratum
+C2	GSE26899	overall_survival	cox_subgroup_in_adjuvant_treated	EP	MP	hazard_ratio	3.2551	1.38744	7.63683	0.00667583	0.0253079	67	19	subgroup_only	1
+C2	GSE26899	overall_survival	cox_subgroup_in_adjuvant_untreated	EP	MP	hazard_ratio	1.05891	0.371939	3.0147	0.914612	0.914612	26	14	subgroup_only	0
+C2	GSE26899	overall_survival	cox_subgroup_adjuvant_interaction	EP	MP	interaction_hazard_ratio	2.23076	0.728875	6.82736	0.159773	0.239659	93	33	subgroup,adjuvant,subgroup_x_adjuvant	interaction
+C2	GSE26899	recurrence_free_survival	cox_subgroup_in_adjuvant_treated	EP	MP	hazard_ratio	3.53252	1.57469	7.92454	0.00220281	0.0253079	67	22	subgroup_only	1
+C2	GSE26899	recurrence_free_survival	cox_subgroup_in_adjuvant_untreated	EP	MP	hazard_ratio	0.76652	0.219125	2.68136	0.67728	0.812736	26	10	subgroup_only	0
+C2	GSE26899	recurrence_free_survival	cox_subgroup_adjuvant_interaction	EP	MP	interaction_hazard_ratio	2.92751	0.912927	9.38773	0.0708037	0.121378	93	32	subgroup,adjuvant,subgroup_x_adjuvant	interaction
+C2	GSE26901	overall_survival	cox_subgroup_in_adjuvant_treated	EP	MP	hazard_ratio	2.58618	1.17693	5.68286	0.0180044	0.0420836	39	24	subgroup_only	1
+C2	GSE26901	overall_survival	cox_subgroup_in_adjuvant_untreated	EP	MP	hazard_ratio	2.55135	1.29772	5.01601	0.00661663	0.0253079	70	31	subgroup_only	0
+C2	GSE26901	overall_survival	cox_subgroup_adjuvant_interaction	EP	MP	interaction_hazard_ratio	1.10356	0.439872	2.76863	0.83369	0.90948	109	55	subgroup,adjuvant,subgroup_x_adjuvant	interaction
+C2	GSE26901	recurrence_free_survival	cox_subgroup_in_adjuvant_treated	EP	MP	hazard_ratio	2.9054	1.31385	6.42487	0.00843596	0.0253079	39	25	subgroup_only	1
+C2	GSE26901	recurrence_free_survival	cox_subgroup_in_adjuvant_untreated	EP	MP	hazard_ratio	2.14558	1.12177	4.10381	0.0210418	0.0420836	70	35	subgroup_only	0
+C2	GSE26901	recurrence_free_survival	cox_subgroup_adjuvant_interaction	EP	MP	interaction_hazard_ratio	1.25382	0.509277	3.08688	0.622666	0.812736	109	60	subgroup,adjuvant,subgroup_x_adjuvant	interaction

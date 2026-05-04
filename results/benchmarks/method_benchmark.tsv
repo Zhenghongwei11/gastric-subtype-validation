@@ -1,0 +1,3 @@
+method_name	method_class	dataset_id	primary_metric	primary_metric_value	confidence_interval	secondary_metric	secondary_metric_value
+published_subtype_mapping	baseline	GSE62254	hazard_ratio	tbd	tbd	c_index	tbd
+compact_program_score	selected_mainline	GSE62254	hazard_ratio	tbd	tbd	c_index	tbd

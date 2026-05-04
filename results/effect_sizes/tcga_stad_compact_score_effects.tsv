@@ -1,0 +1,3 @@
+dataset_id	outcome	model	reference_subtype	comparison_subtype	effect_type	effect	ci_lower	ci_upper	pvalue	n	events	covariates	secondary_metric	secondary_metric_value
+TCGA-STAD	overall_survival	cox_score_unadjusted		compact_score	hazard_ratio	1.20876	1.05456	1.3855	0.00647192	385	159	compact_score	c_index	0.571841
+TCGA-STAD	overall_survival	cox_score_stage_age_sex_adjusted		compact_score	hazard_ratio	1.27894	1.09333	1.49606	0.00210268	365	148	compact_score,stage,age,sex	c_index	0.65584

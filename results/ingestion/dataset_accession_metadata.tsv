@@ -1,0 +1,5 @@
+dataset_id	title	sample_count	platform	endpoint_hint	treatment_hint	outcome_file_hint
+GSE15459	Gastric Cancer Project '08 (Singapore Patient Cohort)	200	GPL570 [HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array	outcome_file	treatment	GSE15459_outcome.xls
+GSE62254	Molecular analysis of gastric cancer identifies discrete subtypes associated with distinct clinical characteristics and survival outcomes: the ACRG (Asian Cancer Research Group) study [gastric tumors]	300	GPL570 [HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array	survival;recurrence;outcome_file	none_detected	none
+GSE84437	Molecular subtypes in gastric cancer.	483	GPL6947 Illumina HumanHT-12 V3.0 expression beadchip	tbd	chemotherapy	none
+TCGA-STAD	Stomach Adenocarcinoma	443	tbd	tbd	none_detected	none

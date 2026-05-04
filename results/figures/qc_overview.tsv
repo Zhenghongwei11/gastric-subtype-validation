@@ -1,0 +1,11 @@
+dataset_id	qc_metric	value	status
+GSE62254	sample_size_check	300	planned
+GSE15459	sample_size_check	200 series samples; 192 gastric adenocarcinoma in final publication	planned
+GSE84437	sample_size_check	483	planned
+TCGA-STAD	sample_size_check	443 clinical cases; smaller overlap for RNA-seq analyses	planned
+GSE26253	sample_size_check	432	planned
+GSE13861	sample_size_check	90 series samples; prognostic model built on resected gastric cancer subsets	planned
+GSE26899	sample_size_check	108 series samples; 93 KUGH tumor rows in recovered endpoint workbook	planned
+GSE26901	sample_size_check	109 tumor samples with KUCM patient-level endpoint linkage	planned
+GSE26942	sample_size_check	217	planned
+GSE29272	sample_size_check	268	planned
