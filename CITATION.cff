@@ -2,8 +2,8 @@ cff-version: 1.2.0
 title: "Gastric subtype validation"
 message: "If you use this code or result package, please cite the archived Zenodo release."
 type: software
-doi: "10.5281/zenodo.20018751"
-version: "1.0.1"
+doi: "10.5281/zenodo.20025337"
+version: "1.0.2"
 date-released: "2026-05-04"
 authors:
   - family-names: Zheng

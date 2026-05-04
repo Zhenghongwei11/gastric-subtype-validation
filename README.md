@@ -32,4 +32,4 @@ Run the analysis scripts under `scripts/analysis/` and figure scripts under `scr
 
 ## Citation
 
-Zenodo: `10.5281/zenodo.20018751` (v1.0.1).
+Zenodo: `10.5281/zenodo.20025337` (v1.0.2).
