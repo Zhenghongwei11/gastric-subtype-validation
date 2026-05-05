@@ -97,7 +97,7 @@ def draw_marker_panel(ax: plt.Axes, marker_rows: list[dict[str, str]]) -> None:
     )
     pivot = pivot.apply(pd.to_numeric)
     image = ax.imshow(pivot.values, cmap="RdBu_r", aspect="auto", vmin=-1.6, vmax=1.6)
-    ax.set_title("B  Expression-level state portrait", loc="left", fontsize=14, fontweight="bold")
+    ax.set_title("B  Marker-level expression portrait", loc="left", fontsize=14, fontweight="bold")
     ax.set_xticks(range(len(pivot.columns)), pivot.columns, rotation=20)
     ax.set_yticks(range(len(pivot.index)), pivot.index)
     ax.set_facecolor("#fbfaf7")
@@ -141,7 +141,7 @@ def render_figure2(km_rows: list[dict[str, str]], marker_rows: list[dict[str, st
     draw_marker_panel(marker_axis, marker_rows)
 
     figure.suptitle(
-        "Discovery-cohort prognosis and expression portrait",
+        "Derivation-cohort prognosis and marker portrait",
         x=0.5,
         y=0.98,
         ha="center",
@@ -152,7 +152,7 @@ def render_figure2(km_rows: list[dict[str, str]], marker_rows: list[dict[str, st
     figure.text(
         0.5,
         0.94,
-        "The derivation cohort shows four-state survival structure together with an interpretable marker-level portrait.",
+        "Survival separation across four ACRG states is accompanied by a concordant epithelial-to-mesenchymal marker contrast.",
         ha="center",
         fontsize=11,
         color="#4a4a4a",

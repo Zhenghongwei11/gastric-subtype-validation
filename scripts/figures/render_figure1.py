@@ -11,13 +11,13 @@ from matplotlib.gridspec import GridSpec
 
 STEP_TITLES = {
     "derivation": "Derivation",
-    "replication": "Replication",
-    "orthogonal_validation": "Orthogonal Validation",
-}
-STEP_NOTES = {
-    "derivation": "Primary dataset",
     "replication": "External validation",
     "orthogonal_validation": "Clinicopathologic context",
+}
+STEP_NOTES = {
+    "derivation": "Prespecified derivation cohort",
+    "replication": "Independent external cohort(s)",
+    "orthogonal_validation": "Supplementary context",
 }
 
 ROLE_COLORS = {
@@ -109,21 +109,21 @@ def draw_workflow(ax: plt.Axes, flow_rows: list[dict[str, str]]) -> None:
         )
 
     ax.text(0.0, 0.95, "A", fontsize=18, fontweight="bold", color="#111111")
-    ax.text(0.05, 0.95, "Frozen derivation-to-validation workflow", fontsize=15, fontweight="bold", color="#111111")
+    ax.text(0.05, 0.95, "Prespecified derivation and validation flow", fontsize=15, fontweight="bold", color="#111111")
 
 
 def draw_cohort_table(ax: plt.Axes, cohort_rows: list[dict[str, str]]) -> None:
     ax.axis("off")
     ax.text(0.0, 1.04, "B", fontsize=18, fontweight="bold", color="#111111", transform=ax.transAxes)
-    ax.text(0.1, 1.04, "Cohort roles and endpoint context", fontsize=14, fontweight="bold", color="#111111", transform=ax.transAxes)
+    ax.text(0.1, 1.04, "Cohorts and clinical endpoints", fontsize=14, fontweight="bold", color="#111111", transform=ax.transAxes)
 
     headers = ["Cohort", "Role", "N"]
     role_map = {
         "Primary derivation dataset": "Derivation",
-        "External prognosis replication": "Replication",
-        "External prognosis replication or optional extension": "Replication",
-        "Orthogonal validation and clinicopathologic context": "Orthogonal",
-        "Treatment-aware external extension candidate": "Tx extension",
+        "External prognosis replication": "External validation",
+        "External prognosis replication or optional extension": "External validation",
+        "Orthogonal validation and clinicopathologic context": "Context cohort",
+        "Treatment-aware external extension candidate": "Exploratory treatment",
     }
     size_map = {
         "108 series samples; 93 KUGH tumor rows in recovered endpoint workbook": "93",
@@ -181,7 +181,7 @@ def draw_projection_space(ax: plt.Axes, projection_space_rows: list[dict[str, st
         )
 
     ax.text(0.02, 1.04, "C", fontsize=18, fontweight="bold", color="#111111", transform=ax.transAxes)
-    ax.text(0.12, 1.04, "Centroid space", fontsize=13, fontweight="bold", color="#111111", transform=ax.transAxes)
+    ax.text(0.12, 1.04, "Subtype score separation", fontsize=13, fontweight="bold", color="#111111", transform=ax.transAxes)
     ax.set_xlabel("EMT score minus MSI score")
     ax.set_ylabel("MSS/TP53- score minus MSS/TP53+ score")
     ax.spines[["top", "right"]].set_visible(False)
@@ -220,7 +220,7 @@ def draw_projection_qc(ax: plt.Axes, projection_rows: list[dict[str, str]]) -> N
     shared_gene_count = subtype_rows[0]["shared_gene_count"] if subtype_rows else "NA"
     low_margin_total = sum(int(row["low_margin_count"]) for row in subtype_rows)
     ax.text(0.02, 1.04, "D", fontsize=18, fontweight="bold", color="#111111", transform=ax.transAxes)
-    ax.text(0.12, 1.04, "Projection QC", fontsize=13, fontweight="bold", color="#111111", transform=ax.transAxes)
+    ax.text(0.12, 1.04, "Subtype assignment confidence", fontsize=13, fontweight="bold", color="#111111", transform=ax.transAxes)
     ax.text(
         0.02,
         0.98,
@@ -232,7 +232,7 @@ def draw_projection_qc(ax: plt.Axes, projection_rows: list[dict[str, str]]) -> N
     ax.text(
         0.02,
         0.92,
-        f"Low-margin = {low_margin_total}",
+        f"Low-confidence calls = {low_margin_total}",
         fontsize=9.0,
         color="#4a4a4a",
         transform=ax.transAxes,
@@ -269,7 +269,7 @@ def render_figure1(
     draw_projection_qc(qc_axis, projection_rows)
 
     figure.suptitle(
-        "Study design, cohort qualification, and technical consistency",
+        "Study design and multi-cohort validation overview",
         x=0.5,
         y=0.98,
         ha="center",
@@ -280,7 +280,7 @@ def render_figure1(
     figure.text(
         0.5,
         0.935,
-        "Frozen centroids, explicit cohort roles, and projection-confidence summaries define the validation engine.",
+        "A fixed subtype definition was applied across cohorts, with assignment confidence summarized for cross-platform transfer.",
         ha="center",
         fontsize=11,
         color="#4a4a4a",

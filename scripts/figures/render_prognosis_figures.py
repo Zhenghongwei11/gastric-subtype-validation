@@ -58,7 +58,7 @@ def build_figure3_display_rows(
 def compact_covariates(value: str) -> str:
     mapping = {
         "pt_stage,pn_stage": "pT + pN",
-        "subgroup,adjuvant,subgroup_x_adjuvant": "subgroup + adj + int",
+        "subgroup,adjuvant,subgroup_x_adjuvant": "subgroup + adjuvant + interaction",
         "fixed-effect summary": "Fixed effect",
     }
     return mapping.get(value, value)
@@ -230,20 +230,20 @@ def render_figure3(
     draw_subtype_km_panel(
         figure.add_subplot(grid[1, 0]),
         [row for row in figure3_km_rows if row["dataset_id"] == "GSE26942"],
-        "B  GSE26942 external validation KM",
+        "B  GSE26942: overall survival (EMT vs MSI)",
     )
     draw_subtype_km_panel(
         figure.add_subplot(grid[1, 1]),
         [row for row in figure3_km_rows if row["dataset_id"] == "GSE84437"],
-        "C  GSE84437 external validation KM",
+        "C  GSE84437: overall survival (EMT vs MSI)",
     )
 
-    figure.text(0.5, 0.98, "External prognosis replication across independent cohorts", ha="center", va="top", fontsize=17, fontweight="bold", color="#111111")
-    figure.text(0.5, 0.94, "A  Forest and fixed-effect summary diamond", ha="center", fontsize=14, fontweight="bold", color="#111111")
+    figure.text(0.5, 0.98, "External validation of the EMT-versus-MSI prognostic contrast", ha="center", va="top", fontsize=17, fontweight="bold", color="#111111")
+    figure.text(0.5, 0.94, "A  Cohort-specific hazard ratios with fixed-effect context", ha="center", fontsize=14, fontweight="bold", color="#111111")
     figure.text(
         0.5,
         0.915,
-        "Frozen shared ACRG state. Cohort-wise HRs remain primary; the fixed-effect summary diamond is subordinate context.",
+        "A fixed subtype definition was applied across cohorts; cohort-specific estimates are primary, with a fixed-effect summary shown for context.",
         ha="center",
         fontsize=10.8,
         color="#4a4a4a",
@@ -307,21 +307,21 @@ def render_figure5(
         figure.add_subplot(grid[2, 0]),
         figure5_cross_km_rows,
         subgroup="EP",
-        title="B  GSE26899 EP: adjuvant vs no adjuvant",
+        title="B  GSE26899 (EP): adjuvant vs none",
     )
     draw_treatment_km_panel(
         figure.add_subplot(grid[2, 1]),
         figure5_cross_km_rows,
         subgroup="MP",
-        title="C  GSE26899 MP: adjuvant vs no adjuvant",
+        title="C  GSE26899 (MP): adjuvant vs none",
     )
 
-    figure.text(0.5, 0.98, "Nat Commun cohort-family treatment-extension interaction effects", ha="center", va="top", fontsize=17, fontweight="bold", color="#111111")
-    figure.text(0.5, 0.94, "A  Cohort-wise interaction forest", ha="center", fontsize=14, fontweight="bold", color="#111111")
+    figure.text(0.5, 0.98, "Exploratory adjuvant chemotherapy interaction analyses (Nat Commun cohorts)", ha="center", va="top", fontsize=17, fontweight="bold", color="#111111")
+    figure.text(0.5, 0.94, "A  Cohort-specific interaction hazard ratios", ha="center", fontsize=14, fontweight="bold", color="#111111")
     figure.text(
         0.5,
         0.915,
-        "Interaction estimates remain primary. GSE26899 cross-KM panels are exploratory support for differential adjuvant benefit by subgroup.",
+        "Interaction estimates are exploratory; Kaplan–Meier panels illustrate treated versus untreated strata within EP and MP subgroups in GSE26899.",
         ha="center",
         fontsize=10.8,
         color="#4a4a4a",
