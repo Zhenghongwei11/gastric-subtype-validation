@@ -11,9 +11,9 @@ This repository contains a public reproducibility package for a gastric adenocar
 
 ## Scope
 
-- This package includes analysis code, derived result tables, and figure outputs for reproducibility.
-- Manuscript and submission documents are maintained separately and are not part of this repository.
-- Raw expression matrices are not redistributed; please re-download from the public accessions listed in `data/manifest.tsv`.
+- This package provides analysis code, derived result tables, and publication figures to support reproducibility.
+- Primary inputs are public datasets listed in `data/manifest.tsv`.
+- Raw expression matrices are not mirrored here; please obtain them from the original public sources.
 
 ## Environment
 

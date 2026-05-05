@@ -5,3 +5,4 @@ __pycache__/
 *.token
 token
 .env.*
+.venv/
